@@ -1,0 +1,6 @@
+[submodule "atmelavr-and-arduino/arduino-external-libs/lib/Adafruit-PCD8544-Nokia-5110-LCD-library"]
+	path = atmelavr-and-arduino/arduino-external-libs/lib/Adafruit-PCD8544-Nokia-5110-LCD-library
+	url = https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library.git
+[submodule "atmelavr-and-arduino/arduino-external-libs/lib/Adafruit-GFX-Library"]
+	path = atmelavr-and-arduino/arduino-external-libs/lib/Adafruit-GFX-Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
