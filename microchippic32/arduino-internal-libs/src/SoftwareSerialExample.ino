@@ -13,10 +13,12 @@
  by Tom Igoe
  based on Mikal Hart's example
  Modified on Aug 31,2015 by Brian Schmalz for chipKIT
- 
+
  This example code is in the public domain.
 
  */
+
+#include <Arduino.h>
 #include <SoftwareSerial.h>
 
 SoftwareSerial mySerial(10, 11); // RX, TX
@@ -28,7 +30,7 @@ void setup()
   while (!Serial) {
     ;
   }
-  
+
   Serial.println("Goodnight moon!");
 
   // set the data rate for the SoftwareSerial port

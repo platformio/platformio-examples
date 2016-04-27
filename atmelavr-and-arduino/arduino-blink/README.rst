@@ -20,13 +20,19 @@ How to build PlatformIO based project
 .. code-block:: bash
 
     # Change directory to example
-    > cd platformio-examples/atmelavr-and-arduino/panstamp-blink
+    > cd platformio-examples/atmelavr-and-arduino/arduino-blink
 
     # Build project
     > platformio run
 
     # Upload firmware
     > platformio run --target upload
+
+    # Build specific environment
+    > platformio run -e flora8
+
+    # Upload firmware for the specific environment
+    > platformio run -e flora8 --target upload
 
     # Clean build files
     > platformio run --target clean

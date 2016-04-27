@@ -45,6 +45,7 @@ V10 Mike Grusin, SparkFun Electronics 10/24/2013
 // Your sketch must #include this library, and the Wire library.
 // (Wire is a standard library included with Arduino.):
 
+#include <Arduino.h>
 #include <SFE_BMP180.h>
 #include <Wire.h>
 
@@ -73,18 +74,18 @@ void setup()
   }
 
   // Get the baseline pressure:
-  
+
   baseline = getPressure();
-  
+
   Serial.print("baseline pressure: ");
   Serial.print(baseline);
-  Serial.println(" mb");  
+  Serial.println(" mb");
 }
 
 void loop()
 {
   double a,P;
-  
+
   // Get a new pressure reading:
 
   P = getPressure();
@@ -93,7 +94,7 @@ void loop()
   // the new reading and the baseline reading:
 
   a = pressure.altitude(P,baseline);
-  
+
   Serial.print("relative altitude: ");
   if (a >= 0.0) Serial.print(" "); // add a space for positive numbers
   Serial.print(a,1);
@@ -101,7 +102,7 @@ void loop()
   if (a >= 0.0) Serial.print(" "); // add a space for positive numbers
   Serial.print(a*3.28084,0);
   Serial.println(" feet");
-  
+
   delay(500);
 }
 
@@ -112,7 +113,7 @@ double getPressure()
   double T,P,p0,a;
 
   // You must first get a temperature measurement to perform a pressure reading.
-  
+
   // Start a temperature measurement:
   // If request is successful, the number of ms to wait is returned.
   // If request is unsuccessful, 0 is returned.
