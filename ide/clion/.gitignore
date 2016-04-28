@@ -1,0 +1,2 @@
+.pioenvs
+CMakeListsPrivate.txt
