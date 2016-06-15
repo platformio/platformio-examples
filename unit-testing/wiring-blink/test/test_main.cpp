@@ -42,11 +42,11 @@ void loop() {
         delay(500);
         RUN_TEST(test_led_state_low);
         delay(500);
+        i++;
     }
     else if (i == max_blinks) {
       UNITY_END(); // stop unit testing
     }
-    i++;
 }
 
 #endif
