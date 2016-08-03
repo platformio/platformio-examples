@@ -1,5 +1,5 @@
 /**
- * Copyright (C) Ivan Kravets <me@ikravets.com>
+ * Copyright (C) PlatformIO <contact@platformio.org>
  * See LICENSE for details.
  */
 

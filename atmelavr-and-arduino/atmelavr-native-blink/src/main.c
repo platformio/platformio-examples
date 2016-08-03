@@ -1,8 +1,3 @@
-/**
- * Copyright (C) Ivan Kravets <me@ikravets.com>
- * See LICENSE for details.
- */
-
 #include <avr/io.h>
 #include <util/delay.h>
 

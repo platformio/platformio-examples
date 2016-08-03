@@ -1,8 +1,3 @@
-/**
- * Copyright (C) Ivan Kravets <me@ikravets.com>
- * See LICENSE for details.
- */
-
 #include <stdint.h>
 #include <stdbool.h>
 #include "inc/hw_memmap.h"
