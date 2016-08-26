@@ -62,4 +62,4 @@
 #     - pip install -U platformio
 #
 # script:
-#     - platformio ci --lib="." --board=TYPE_1 --board=TYPE_2 --board=TYPE_N
+#     - platformio ci --lib="." --board=ID_1 --board=ID_2 --board=ID_N
