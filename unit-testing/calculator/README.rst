@@ -28,5 +28,5 @@ How to test PlatformIO based project
     # Test specific environment
     > platformio test -e uno
 
-    # Process test on the local machine
-    > platformio test -e local
+    # Process test on native desktop machine
+    > platformio test -e native
