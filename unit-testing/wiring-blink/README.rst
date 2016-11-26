@@ -13,7 +13,7 @@ How to test PlatformIO based project
 ====================================
 
 1. `Install PlatformIO <http://docs.platformio.org/en/stable/installation.html>`_
-2. Download `source code with examples <https://github.com/platformio/platformio-examples/archive/develop.zip>`_
+2. Download `examples source code <https://github.com/platformio/platformio-examples/archive/develop.zip>`_
 3. Extract ZIP archive
 4. Run these commands:
 
