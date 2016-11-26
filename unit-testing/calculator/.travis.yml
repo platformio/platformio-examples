@@ -21,7 +21,7 @@
 
 
 #
-# Template #1: General project. Test it using existing `platformio.ini`.
+# Template #1: Local Unit Testing, process native environment on CI machine
 #
 
 # language: python
@@ -37,11 +37,12 @@
 #     - pip install -U platformio
 #
 # script:
-#     - platformio run
+#     - platformio test -e native
+
 
 
 #
-# Template #2: The project is intended to by used as a library with examples
+# Template #2 Remote Unit Testing, process environments on remote machine
 #
 
 # language: python
@@ -53,13 +54,8 @@
 #     directories:
 #         - "~/.platformio"
 #
-# env:
-#     - PLATFORMIO_CI_SRC=path/to/test/file.c
-#     - PLATFORMIO_CI_SRC=examples/file.ino
-#     - PLATFORMIO_CI_SRC=path/to/test/directory
-#
 # install:
 #     - pip install -U platformio
 #
 # script:
-#     - platformio ci --lib="." --board=ID_1 --board=ID_2 --board=ID_N
+#     - platformio remote test

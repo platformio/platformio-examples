@@ -1,4 +1,4 @@
-#ifndef UNIT_TEST
+#ifndef UNIT_TEST // disable program main loop while unit testing in progress
 
 #include <Arduino.h>
 #include "calculator.h"
