@@ -27,7 +27,7 @@ How to build PlatformIO based project
 .. code-block:: bash
 
     # Change directory to example
-    > cd platformio-examples/simba/blink
+    > cd platformio-examples/simba/hello_world
 
     # Process example project
     > platformio run
