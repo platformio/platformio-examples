@@ -9,13 +9,6 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 
-About
-=====
-
-This example prints "Hello world!" to the serial port. The baudrate
-is 38400.
-
-
 How to build PlatformIO based project
 =====================================
 
@@ -27,14 +20,13 @@ How to build PlatformIO based project
 .. code-block:: bash
 
     # Change directory to example
-    > cd platformio-examples/simba/hello_world
+    > cd platformio-examples/atmelavr-and-arduino/atmelavr-assember-blink
 
-    # Process example project
+    # Build project
     > platformio run
 
-    # Upload firmware to Arduino Due
-    > platformio run --environment arduino_due --target upload
+    # Upload firmware
+    > platformio run --target upload
 
-    # Upload firmware to Arduino Uno
-    > platformio run --environment arduino_uno --target upload
-
+    # Clean build files
+    > platformio run --target clean

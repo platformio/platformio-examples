@@ -3,13 +3,6 @@ project(clion)
 
 include(CMakeListsPrivate.txt)
 
-add_definitions(-DF_CPU=16000000L)
-add_definitions(-DARDUINO_ARCH_AVR)
-add_definitions(-DARDUINO_AVR_UNO)
-add_definitions(-DARDUINO=10607)
-add_definitions(-DPLATFORMIO=020805)
-add_definitions(-D__AVR_ATmega328P__)
-
 add_custom_target(
     PLATFORMIO_BUILD ALL
     COMMAND ${PLATFORMIO_CMD} -f -c clion run
@@ -25,6 +18,12 @@ add_custom_target(
 add_custom_target(
     PLATFORMIO_CLEAN ALL
     COMMAND ${PLATFORMIO_CMD} -f -c clion run --target clean
+    WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
+)
+
+add_custom_target(
+    PLATFORMIO_TEST ALL
+    COMMAND ${PLATFORMIO_CMD} -f -c clion test
     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
 )
 
@@ -46,6 +45,10 @@ add_custom_target(
     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
 )
 
-add_executable(clion
-    src/blink.cpp
+add_custom_target(
+    PLATFORMIO_REBUILD_PROJECT_INDEX ALL
+    COMMAND ${PLATFORMIO_CMD} -f -c clion init --ide clion
+    WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
 )
+
+add_executable(${PROJECT_NAME} ${SRC_LIST})
