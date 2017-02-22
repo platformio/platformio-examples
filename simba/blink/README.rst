@@ -18,7 +18,7 @@ This example turns the on board LED on/off once per second.
 How to build PlatformIO based project
 =====================================
 
-1. `Install PlatformIO <http://docs.platformio.org/en/stable/installation.html>`_
+1. `Install PlatformIO Core <http://docs.platformio.org/page/core.html>`_
 2. Download `examples source code <https://github.com/platformio/platformio-examples/archive/develop.zip>`_
 3. Extract ZIP archive
 4. Run these commands:
