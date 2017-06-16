@@ -26,7 +26,7 @@ int main()
     while (1) {
 
         /* Get the wifi connect status. */
-        int new_status = esp_wifi_station_get_connect_status();
+        int new_status = esp_wifi_station_get_status();
         if (new_status != status) {
 
             /* Print information about the WiFi. */

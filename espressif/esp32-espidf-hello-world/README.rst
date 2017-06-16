@@ -1,4 +1,4 @@
-..  Copyright 2014-present PlatformIO <contact@platformio.org>
+..  Copyright (c) 2014-present PlatformIO <contact@platformio.org>
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
@@ -12,7 +12,7 @@
 How to build PlatformIO based project
 =====================================
 
-1. `Install PlatformIO <http://docs.platformio.org/en/stable/installation.html>`_
+1. `Install PlatformIO Core <http://docs.platformio.org/page/core.html>`_
 2. Download `examples source code <https://github.com/platformio/platformio-examples/archive/develop.zip>`_
 3. Extract ZIP archive
 4. Run these commands:

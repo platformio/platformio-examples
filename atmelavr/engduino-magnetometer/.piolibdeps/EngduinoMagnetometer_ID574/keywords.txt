@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map EngduinoMagnetometer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EngduinoMagnetometer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+xyz	KEYWORD2
+temperature	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
