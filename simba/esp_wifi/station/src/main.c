@@ -13,7 +13,7 @@ int main()
     esp_wifi_set_op_mode(esp_wifi_op_mode_station_t);
 
     /* Configure the WiFi module as a Station.*/
-    if (esp_wifi_station_init(WIFI_SSID, WIFI_PASS, NULL)) {
+    if (esp_wifi_station_init(WIFI_SSID, WIFI_PASS, NULL, NULL)) {
         std_printf(FSTR("Failed to configure the wifi interface.\r\n"));
     }
 
