@@ -20,7 +20,7 @@ How to build PlatformIO based project
 .. code-block:: bash
 
     # Change directory to example
-    > cd platformio-examples/mbed/mbed-rtos
+    > cd platformio-examples/mbed/mbed-rtos-ethernet-tls
 
     # Build project
     > platformio run
@@ -29,10 +29,10 @@ How to build PlatformIO based project
     > platformio run --target upload
 
     # Build specific environment
-    > platformio run -e nrf52_dk
+    > platformio run -e nucleo_f767zi
 
     # Upload firmware for the specific environment
-    > platformio run -e nrf52_dk --target upload
+    > platformio run -e nucleo_f767zi --target upload
 
     # Clean build files
     > platformio run --target clean

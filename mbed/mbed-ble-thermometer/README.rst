@@ -20,7 +20,7 @@ How to build PlatformIO based project
 .. code-block:: bash
 
     # Change directory to example
-    > cd platformio-examples/mbed/mbed-rtos
+    > cd platformio-examples/mbed/mbed-ble-thermometer
 
     # Build project
     > platformio run
