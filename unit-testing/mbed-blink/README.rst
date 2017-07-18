@@ -9,8 +9,8 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 
-How to build PlatformIO based project
-=====================================
+How to test PlatformIO based project
+====================================
 
 1. `Install PlatformIO Core <http://docs.platformio.org/page/core.html>`_
 2. Download `examples source code <https://github.com/platformio/platformio-examples/archive/develop.zip>`_
@@ -20,19 +20,7 @@ How to build PlatformIO based project
 .. code-block:: bash
 
     # Change directory to example
-    > cd platformio-examples/mbed/mbed-rtos
+    > cd platformio-examples/unit-testing/mbed-blink
 
-    # Build project
-    > platformio run
-
-    # Upload firmware
-    > platformio run --target upload
-
-    # Build specific environment
-    > platformio run -e nrf52_dk
-
-    # Upload firmware for the specific environment
-    > platformio run -e nrf52_dk --target upload
-
-    # Clean build files
-    > platformio run --target clean
+    # Test project
+    > platformio test
