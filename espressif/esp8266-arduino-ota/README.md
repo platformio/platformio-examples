@@ -5,7 +5,7 @@
 
 OTA (Over the Air) update is the process of loading the firmware to ESP module using Wi-Fi connection rather that a serial port. 
 
-This example is adapted from https://github.com/esp8266/Arduino/blob/master/doc/ota_updates/readme.md
+This example is adapted from https://github.com/esp8266/Arduino/blob/master/doc/ota_updates/readme.rst
 
 ## Execute the example
 
