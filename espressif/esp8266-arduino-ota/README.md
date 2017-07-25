@@ -3,16 +3,16 @@
 
 ## About
 
-OTA (Over the Air) update is the process of loading the firmware to ESP module using Wi-Fi connection rather that a serial port. 
+OTA (Over the Air) update is the process of loading the firmware to ESP module using Wi-Fi connection rather that a serial port.
 
-This example is adapted from https://github.com/esp8266/Arduino/blob/master/doc/ota_updates/readme.md
+This example is adapted from https://arduino-esp8266.readthedocs.io/en/latest/ota_updates/readme.html
 
 ## Execute the example
 
 Change directory to the example and edit src/main.cpp to set the SSID and password of your WiFi network.
 
-    const char* ssid = "WIFI_SSID";                                                                                          
-    const char* password = "WIFI_PASS";  
+    const char* ssid = "WIFI_SSID";
+    const char* password = "WIFI_PASS";
 
 Compile and upload to your esp8266:
 
