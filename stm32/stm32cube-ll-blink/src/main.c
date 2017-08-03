@@ -45,7 +45,7 @@ void SystemClock_Config(void)
   LL_RCC_SetAPB2Prescaler(LL_RCC_APB2_DIV_1);
 
   /* Update CMSIS variable (which can be updated also through SystemCoreClockUpdate function) */
-  SystemCoreClock = F_CPU;
+  SystemCoreClock = SYS_CLOCK;
   
   LL_Init1msTick(SystemCoreClock);
 }
