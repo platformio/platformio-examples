@@ -1,5 +1,4 @@
-#include <Arduino.h>
-#include <OneWire.h>
+#include "main.h"
 
 // OneWire DS18S20, DS18B20, DS1822 Temperature Example
 //
