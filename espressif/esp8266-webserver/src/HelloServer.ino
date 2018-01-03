@@ -1,12 +1,10 @@
-#include <Arduino.h>
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 #include <ESP8266mDNS.h>
 
-const char* ssid = "******";
-const char* password = "******";
-MDNSResponder mdns;
+const char* ssid = "........";
+const char* password = "........";
 
 ESP8266WebServer server(80);
 
@@ -39,6 +37,7 @@ void setup(void){
   pinMode(led, OUTPUT);
   digitalWrite(led, 0);
   Serial.begin(115200);
+  WiFi.mode(WIFI_STA);
   WiFi.begin(ssid, password);
   Serial.println("");
 
@@ -53,7 +52,7 @@ void setup(void){
   Serial.print("IP address: ");
   Serial.println(WiFi.localIP());
 
-  if (mdns.begin("esp8266", WiFi.localIP())) {
+  if (MDNS.begin("esp8266")) {
     Serial.println("MDNS responder started");
   }
 
