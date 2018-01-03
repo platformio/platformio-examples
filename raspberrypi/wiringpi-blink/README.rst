@@ -26,7 +26,7 @@ How to build PlatformIO based project
     > platformio run
 
     # Run program
-    > build/raspberrypi_2b/program
+    > .pioenvs/raspberrypi_2b/program
 
     # Clean build files
     > platformio run --target clean

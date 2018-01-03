@@ -48,9 +48,9 @@ Looking for dependencies...
 Project does not have dependencies
 Looking for upload port...
 Use manually specified: 192.168.10.190
-Uploading build/nodemcu/firmware.bin
+Uploading .pioenvs/nodemcu/firmware.bin
 21:35:49 [DEBUG]: Options: {'esp_ip': '192.168.10.190', 'host_port': 31639,
-'image': 'build/nodemcu/firmware.bin', 'host_ip': '0.0.0.0', 'auth': '',
+'image': '.pioenvs/nodemcu/firmware.bin', 'host_ip': '0.0.0.0', 'auth': '',
 'esp_port': 8266, 'spiffs': False, 'debug': True, 'progress': True}
 21:35:49 [INFO]: Starting on 0.0.0.0:31639
 21:35:49 [INFO]: Upload size: 226272
