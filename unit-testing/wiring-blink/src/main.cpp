@@ -6,8 +6,6 @@
 
 #include "Arduino.h"
 
-#ifndef UNIT_TEST
-
 void setup()
 {
   // initialize LED digital pin as an output.
@@ -25,5 +23,3 @@ void loop()
    // wait for a second
   delay(1000);
 }
-
-#endif

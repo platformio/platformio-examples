@@ -6,8 +6,6 @@
 
 #include "mbed.h"
 
-#ifndef UNIT_TEST
-
 DigitalOut myled(LED1);
 
 int main() {
@@ -18,5 +16,3 @@ int main() {
         wait(1);
     }
 }
-
-#endif
