@@ -63,13 +63,6 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/develop/examples/mbed-rtos-ethernet)
   * [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/develop/examples/mbed-serial)
 
-- [WIZNet W7500](https://github.com/platformio/platform-wiznet7500)
-  * [mbed-blink](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-blink)
-  * [mbed-dsp](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-dsp)
-  * [mbed-events](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-events)
-  * [mbed-rtos](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-rtos)
-  * [mbed-serial](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-serial)
-
 - [Silicon Labs EFM32](https://github.com/platformio/platform-siliconlabsefm32)
   * [mbed-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/develop/examples/mbed-blink)
   * [mbed-dsp](https://github.com/platformio/platform-siliconlabsefm32/tree/develop/examples/mbed-dsp)
@@ -109,4 +102,11 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-events](https://github.com/platformio/platform-teensy/tree/develop/examples/mbed-events)
   * [mbed-rtos](https://github.com/platformio/platform-teensy/tree/develop/examples/mbed-rtos)
   * [mbed-serial](https://github.com/platformio/platform-teensy/tree/develop/examples/mbed-serial)
+
+- [WIZNet W7500](https://github.com/platformio/platform-wiznet7500)
+  * [mbed-blink](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-blink)
+  * [mbed-dsp](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-dsp)
+  * [mbed-events](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-events)
+  * [mbed-rtos](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-rtos)
+  * [mbed-serial](https://github.com/platformio/platform-wiznet7500/tree/develop/examples/mbed-serial)
 

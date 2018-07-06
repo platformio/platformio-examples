@@ -21,7 +21,6 @@
 * [Nordic nRF51](https://github.com/platformio/platform-nordicnrf51/tree/develop/examples)
 * [Nordic nRF52](https://github.com/platformio/platform-nordicnrf52/tree/develop/examples)
 * [NXP LPC](https://github.com/platformio/platform-nxplpc/tree/develop/examples)
-* [WIZNet W7500](https://github.com/platformio/platform-wiznet7500/tree/develop/examples)
 * [RISC-V](https://github.com/platformio/platform-riscv/tree/develop/examples)
 * [Samsung ARTIK](https://github.com/platformio/platform-samsung_artik/tree/develop/examples)
 * [Silicon Labs EFM32](https://github.com/platformio/platform-siliconlabsefm32/tree/develop/examples)
@@ -29,6 +28,7 @@
 * [Teensy](https://github.com/platformio/platform-teensy/tree/develop/examples)
 * [TI MSP430](https://github.com/platformio/platform-timsp430/tree/develop/examples)
 * [TI TIVA](https://github.com/platformio/platform-titiva/tree/develop/examples)
+* [WIZNet W7500](https://github.com/platformio/platform-wiznet7500/tree/develop/examples)
 
 ### Desktop
 
