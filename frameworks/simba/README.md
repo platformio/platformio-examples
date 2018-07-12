@@ -32,6 +32,7 @@ Simba is an RTOS and build framework. It aims to make embedded programming easy 
 - [Espressif 32](https://github.com/platformio/platform-espressif32)
   * [arduino-blink](https://github.com/platformio/platform-espressif32/tree/develop/examples/arduino-blink)
   * [arduino-wifiscan](https://github.com/platformio/platform-espressif32/tree/develop/examples/arduino-wifiscan)
+  * [espidf-aws-iot](https://github.com/platformio/platform-espressif32/tree/develop/examples/espidf-aws-iot)
   * [espidf-ble-adv](https://github.com/platformio/platform-espressif32/tree/develop/examples/espidf-ble-adv)
   * [espidf-coap-server](https://github.com/platformio/platform-espressif32/tree/develop/examples/espidf-coap-server)
   * [espidf-exceptions](https://github.com/platformio/platform-espressif32/tree/develop/examples/espidf-exceptions)
