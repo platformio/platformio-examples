@@ -8,7 +8,7 @@ Silicon Labs EFM32 Gecko 32-bit microcontroller (MCU) family includes devices th
 
 # Examples
 
-* [mbed-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/develop/examples/mbed-blink)
-* [mbed-dsp](https://github.com/platformio/platform-siliconlabsefm32/tree/develop/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-siliconlabsefm32/tree/develop/examples/mbed-events)
-* [mbed-serial](https://github.com/platformio/platform-siliconlabsefm32/tree/develop/examples/mbed-serial)
+* [mbed-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-blink)
+* [mbed-dsp](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-dsp)
+* [mbed-events](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-events)
+* [mbed-serial](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-serial)

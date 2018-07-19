@@ -9,6 +9,6 @@ ARTIK SDK is a C/C++ SDK targeting Samsung ARTIK platforms. It exposes a set of 
 # Examples
 
 - [Linux ARM](https://github.com/platformio/platform-linux_arm)
-  * [wiringpi-blink](https://github.com/platformio/platform-linux_arm/tree/develop/examples/wiringpi-blink)
-  * [wiringpi-serial](https://github.com/platformio/platform-linux_arm/tree/develop/examples/wiringpi-serial)
+  * [wiringpi-blink](https://github.com/platformio/platform-linux_arm/tree/master/examples/wiringpi-blink)
+  * [wiringpi-serial](https://github.com/platformio/platform-linux_arm/tree/master/examples/wiringpi-serial)
 

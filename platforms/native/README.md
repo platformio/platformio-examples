@@ -8,4 +8,4 @@ Native development platform is intended to be used for desktop OS. This platform
 
 # Examples
 
-* [hello-world](https://github.com/platformio/platform-native/tree/develop/examples/hello-world)
+* [hello-world](https://github.com/platformio/platform-native/tree/master/examples/hello-world)

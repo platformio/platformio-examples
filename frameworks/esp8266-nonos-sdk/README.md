@@ -9,12 +9,12 @@ The non-OS SDK provides a set of application programming interfaces (APIs) for c
 # Examples
 
 - [Espressif 8266](https://github.com/platformio/platform-espressif8266)
-  * [arduino-asyncudp](https://github.com/platformio/platform-espressif8266/tree/develop/examples/arduino-asyncudp)
-  * [arduino-blink](https://github.com/platformio/platform-espressif8266/tree/develop/examples/arduino-blink)
-  * [arduino-webserver](https://github.com/platformio/platform-espressif8266/tree/develop/examples/arduino-webserver)
-  * [arduino-wifiscan](https://github.com/platformio/platform-espressif8266/tree/develop/examples/arduino-wifiscan)
-  * [esp8266-nonos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/develop/examples/esp8266-nonos-sdk-blink)
-  * [esp8266-rtos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/develop/examples/esp8266-rtos-sdk-blink)
-  * [native-sdk](https://github.com/platformio/platform-espressif8266/tree/develop/examples/native-sdk)
-  * [simba-blink](https://github.com/platformio/platform-espressif8266/tree/develop/examples/simba-blink)
+  * [arduino-asyncudp](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-asyncudp)
+  * [arduino-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-blink)
+  * [arduino-webserver](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-webserver)
+  * [arduino-wifiscan](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-wifiscan)
+  * [esp8266-nonos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-nonos-sdk-blink)
+  * [esp8266-rtos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-rtos-sdk-blink)
+  * [native-sdk](https://github.com/platformio/platform-espressif8266/tree/master/examples/native-sdk)
+  * [simba-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/simba-blink)
 

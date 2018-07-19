@@ -8,11 +8,11 @@ Teensy is a complete USB-based microcontroller development system, in a very sma
 
 # Examples
 
-* [arduino-blink](https://github.com/platformio/platform-teensy/tree/develop/examples/arduino-blink)
-* [arduino-hid-usb-mouse](https://github.com/platformio/platform-teensy/tree/develop/examples/arduino-hid-usb-mouse)
-* [arduino-internal-libs](https://github.com/platformio/platform-teensy/tree/develop/examples/arduino-internal-libs)
-* [mbed-blink](https://github.com/platformio/platform-teensy/tree/develop/examples/mbed-blink)
-* [mbed-dsp](https://github.com/platformio/platform-teensy/tree/develop/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-teensy/tree/develop/examples/mbed-events)
-* [mbed-rtos](https://github.com/platformio/platform-teensy/tree/develop/examples/mbed-rtos)
-* [mbed-serial](https://github.com/platformio/platform-teensy/tree/develop/examples/mbed-serial)
+* [arduino-blink](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-blink)
+* [arduino-hid-usb-mouse](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-hid-usb-mouse)
+* [arduino-internal-libs](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-internal-libs)
+* [mbed-blink](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-blink)
+* [mbed-dsp](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-dsp)
+* [mbed-events](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-events)
+* [mbed-rtos](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-rtos)
+* [mbed-serial](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-serial)

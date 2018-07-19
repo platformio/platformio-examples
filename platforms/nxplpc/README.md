@@ -8,10 +8,10 @@ The NXP LPC is a family of 32-bit microcontroller integrated circuits by NXP Sem
 
 # Examples
 
-* [mbed-blink](https://github.com/platformio/platform-nxplpc/tree/develop/examples/mbed-blink)
-* [mbed-dsp](https://github.com/platformio/platform-nxplpc/tree/develop/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-nxplpc/tree/develop/examples/mbed-events)
-* [mbed-http-client](https://github.com/platformio/platform-nxplpc/tree/develop/examples/mbed-http-client)
-* [mbed-rtos](https://github.com/platformio/platform-nxplpc/tree/develop/examples/mbed-rtos)
-* [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/develop/examples/mbed-rtos-ethernet)
-* [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/develop/examples/mbed-serial)
+* [mbed-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-blink)
+* [mbed-dsp](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-dsp)
+* [mbed-events](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-events)
+* [mbed-http-client](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-http-client)
+* [mbed-rtos](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos)
+* [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-ethernet)
+* [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-serial)

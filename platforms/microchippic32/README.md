@@ -8,5 +8,5 @@ Microchip's 32-bit portfolio with the MIPS microAptiv or M4K core offer high per
 
 # Examples
 
-* [arduino-blink](https://github.com/platformio/platform-microchippic32/tree/develop/examples/arduino-blink)
-* [arduino-internal-libs](https://github.com/platformio/platform-microchippic32/tree/develop/examples/arduino-internal-libs)
+* [arduino-blink](https://github.com/platformio/platform-microchippic32/tree/master/examples/arduino-blink)
+* [arduino-internal-libs](https://github.com/platformio/platform-microchippic32/tree/master/examples/arduino-internal-libs)

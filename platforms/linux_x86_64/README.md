@@ -8,4 +8,4 @@ Linux x86_64 (64-bit) is a Unix-like and mostly POSIX-compliant computer operati
 
 # Examples
 
-* [hello-world](https://github.com/platformio/platform-linux_x86_64/tree/develop/examples/hello-world)
+* [hello-world](https://github.com/platformio/platform-linux_x86_64/tree/master/examples/hello-world)

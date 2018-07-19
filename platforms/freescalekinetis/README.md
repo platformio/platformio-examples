@@ -8,9 +8,9 @@ Freescale Kinetis Microcontrollers is family of multiple hardware- and software-
 
 # Examples
 
-* [mbed-blink](https://github.com/platformio/platform-freescalekinetis/tree/develop/examples/mbed-blink)
-* [mbed-dsp](https://github.com/platformio/platform-freescalekinetis/tree/develop/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-freescalekinetis/tree/develop/examples/mbed-events)
-* [mbed-rtos](https://github.com/platformio/platform-freescalekinetis/tree/develop/examples/mbed-rtos)
-* [mbed-rtos-ethernet](https://github.com/platformio/platform-freescalekinetis/tree/develop/examples/mbed-rtos-ethernet)
-* [mbed-serial](https://github.com/platformio/platform-freescalekinetis/tree/develop/examples/mbed-serial)
+* [mbed-blink](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-blink)
+* [mbed-dsp](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-dsp)
+* [mbed-events](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-events)
+* [mbed-rtos](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos)
+* [mbed-rtos-ethernet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-ethernet)
+* [mbed-serial](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-serial)

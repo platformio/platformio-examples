@@ -8,4 +8,4 @@ Linux i686 (32-bit) is a Unix-like and mostly POSIX-compliant computer operating
 
 # Examples
 
-* [hello-world](https://github.com/platformio/platform-linux_i686/tree/develop/examples/hello-world)
+* [hello-world](https://github.com/platformio/platform-linux_i686/tree/master/examples/hello-world)

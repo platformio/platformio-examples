@@ -8,11 +8,11 @@ The nRF52 Series are built for speed to carry out increasingly complex tasks in 
 
 # Examples
 
-* [arduino-ble-led](https://github.com/platformio/platform-nordicnrf52/tree/develop/examples/arduino-ble-led)
-* [arduino-blink](https://github.com/platformio/platform-nordicnrf52/tree/develop/examples/arduino-blink)
-* [mbed-ble-thermometer](https://github.com/platformio/platform-nordicnrf52/tree/develop/examples/mbed-ble-thermometer)
-* [mbed-blink](https://github.com/platformio/platform-nordicnrf52/tree/develop/examples/mbed-blink)
-* [mbed-dsp](https://github.com/platformio/platform-nordicnrf52/tree/develop/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-nordicnrf52/tree/develop/examples/mbed-events)
-* [mbed-rtos](https://github.com/platformio/platform-nordicnrf52/tree/develop/examples/mbed-rtos)
-* [mbed-serial](https://github.com/platformio/platform-nordicnrf52/tree/develop/examples/mbed-serial)
+* [arduino-ble-led](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-ble-led)
+* [arduino-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-blink)
+* [mbed-ble-thermometer](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-ble-thermometer)
+* [mbed-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-blink)
+* [mbed-dsp](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-dsp)
+* [mbed-events](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-events)
+* [mbed-rtos](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos)
+* [mbed-serial](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-serial)

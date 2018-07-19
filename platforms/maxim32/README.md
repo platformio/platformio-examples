@@ -8,8 +8,8 @@ Maxim's microcontrollers provide low-power, efficient, and secure solutions for 
 
 # Examples
 
-* [mbed-blink](https://github.com/platformio/platform-maxim32/tree/develop/examples/mbed-blink)
-* [mbed-dsp](https://github.com/platformio/platform-maxim32/tree/develop/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-maxim32/tree/develop/examples/mbed-events)
-* [mbed-rtos](https://github.com/platformio/platform-maxim32/tree/develop/examples/mbed-rtos)
-* [mbed-serial](https://github.com/platformio/platform-maxim32/tree/develop/examples/mbed-serial)
+* [mbed-blink](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-blink)
+* [mbed-dsp](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-dsp)
+* [mbed-events](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-events)
+* [mbed-rtos](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-rtos)
+* [mbed-serial](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-serial)

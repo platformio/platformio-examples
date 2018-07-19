@@ -8,4 +8,4 @@ Windows x86 (32-bit) is a metafamily of graphical operating systems developed an
 
 # Examples
 
-* [hello-world](https://github.com/platformio/platform-windows_x86/tree/develop/examples/hello-world)
+* [hello-world](https://github.com/platformio/platform-windows_x86/tree/master/examples/hello-world)

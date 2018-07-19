@@ -9,14 +9,14 @@ Energia Wiring-based framework enables pretty much anyone to start easily creati
 # Examples
 
 - [TI MSP430](https://github.com/platformio/platform-timsp430)
-  * [arduino-blink](https://github.com/platformio/platform-timsp430/tree/develop/examples/arduino-blink)
-  * [energia-blink](https://github.com/platformio/platform-timsp430/tree/develop/examples/energia-blink)
-  * [energia-internal-libs](https://github.com/platformio/platform-timsp430/tree/develop/examples/energia-internal-libs)
-  * [native-blink](https://github.com/platformio/platform-timsp430/tree/develop/examples/native-blink)
+  * [arduino-blink](https://github.com/platformio/platform-timsp430/tree/master/examples/arduino-blink)
+  * [energia-blink](https://github.com/platformio/platform-timsp430/tree/master/examples/energia-blink)
+  * [energia-internal-libs](https://github.com/platformio/platform-timsp430/tree/master/examples/energia-internal-libs)
+  * [native-blink](https://github.com/platformio/platform-timsp430/tree/master/examples/native-blink)
 
 - [TI TIVA](https://github.com/platformio/platform-titiva)
-  * [energia-blink](https://github.com/platformio/platform-titiva/tree/develop/examples/energia-blink)
-  * [energia-internal-libs](https://github.com/platformio/platform-titiva/tree/develop/examples/energia-internal-libs)
-  * [libopencm3-blink](https://github.com/platformio/platform-titiva/tree/develop/examples/libopencm3-blink)
-  * [native-blink](https://github.com/platformio/platform-titiva/tree/develop/examples/native-blink)
+  * [energia-blink](https://github.com/platformio/platform-titiva/tree/master/examples/energia-blink)
+  * [energia-internal-libs](https://github.com/platformio/platform-titiva/tree/master/examples/energia-internal-libs)
+  * [libopencm3-blink](https://github.com/platformio/platform-titiva/tree/master/examples/libopencm3-blink)
+  * [native-blink](https://github.com/platformio/platform-titiva/tree/master/examples/native-blink)
 

@@ -8,6 +8,6 @@ The Samsung ARTIK Smart IoT platform brings hardware modules and cloud services 
 
 # Examples
 
-* [artik_sdk](https://github.com/platformio/platform-samsung_artik/tree/develop/examples/artik_sdk)
-* [blink_led_wifi](https://github.com/platformio/platform-samsung_artik/tree/develop/examples/blink_led_wifi)
-* [hello](https://github.com/platformio/platform-samsung_artik/tree/develop/examples/hello)
+* [artik_sdk](https://github.com/platformio/platform-samsung_artik/tree/master/examples/artik_sdk)
+* [blink_led_wifi](https://github.com/platformio/platform-samsung_artik/tree/master/examples/blink_led_wifi)
+* [hello](https://github.com/platformio/platform-samsung_artik/tree/master/examples/hello)

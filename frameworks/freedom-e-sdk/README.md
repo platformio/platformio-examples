@@ -9,9 +9,9 @@ Open Source Software for Developing on the SiFive Freedom E Platform
 # Examples
 
 - [RISC-V](https://github.com/platformio/platform-riscv)
-  * [freedom-e-sdk_asm](https://github.com/platformio/platform-riscv/tree/develop/examples/freedom-e-sdk_asm)
-  * [freedom-e-sdk_dhrystone](https://github.com/platformio/platform-riscv/tree/develop/examples/freedom-e-sdk_dhrystone)
-  * [freedom-e-sdk_gpio](https://github.com/platformio/platform-riscv/tree/develop/examples/freedom-e-sdk_gpio)
-  * [freedom-e-sdk_hello](https://github.com/platformio/platform-riscv/tree/develop/examples/freedom-e-sdk_hello)
-  * [freedom-e-sdk_smp](https://github.com/platformio/platform-riscv/tree/develop/examples/freedom-e-sdk_smp)
+  * [freedom-e-sdk_asm](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_asm)
+  * [freedom-e-sdk_dhrystone](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_dhrystone)
+  * [freedom-e-sdk_gpio](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_gpio)
+  * [freedom-e-sdk_hello](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_hello)
+  * [freedom-e-sdk_smp](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_smp)
 
