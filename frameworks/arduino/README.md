@@ -4,7 +4,7 @@
 Arduino Wiring-based Framework allows writing cross-platform software to control devices attached to a wide range of Arduino boards to create all kinds of creative coding, interactive objects, spaces or physical experiences.
 
 * [Home](https://platformio.org/frameworks/arduino) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/arduino.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/arduino.html)
 
 # Examples
 
@@ -58,6 +58,7 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [arduino-wire](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/arduino-wire)
   * [device-control](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/device-control)
   * [ifx9201](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/ifx9201)
+  * [radar](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/radar)
   * [rtc](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/rtc)
   * [spi](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/spi)
   * [ultrasonic](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/ultrasonic)

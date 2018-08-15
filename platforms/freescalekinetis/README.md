@@ -4,7 +4,7 @@
 Freescale Kinetis Microcontrollers is family of multiple hardware- and software-compatible ARM Cortex-M0+, Cortex-M4 and Cortex-M7-based MCU series. Kinetis MCUs offer exceptional low-power performance, scalability and feature integration.
 
 * [Home](https://platformio.org/platforms/freescalekinetis) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/platforms/freescalekinetis.html) (advanced usage, packages, boards, frameworks, etc.)
+* [Documentation](https://docs.platformio.org/page/platforms/freescalekinetis.html) (advanced usage, packages, boards, frameworks, etc.)
 
 # Examples
 

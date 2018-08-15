@@ -4,7 +4,7 @@
 Tizen RT is a lightweight RTOS-based platform to support low-end IoT devices
 
 * [Home](https://platformio.org/frameworks/tizenrt) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/tizenrt.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/tizenrt.html)
 
 # Examples
 

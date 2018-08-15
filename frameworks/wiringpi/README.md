@@ -4,7 +4,7 @@
 WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi. It's designed to be familiar to people who have used the Arduino "wiring" system.
 
 * [Home](https://platformio.org/frameworks/wiringpi) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/wiringpi.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/wiringpi.html)
 
 # Examples
 

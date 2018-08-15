@@ -4,7 +4,7 @@
 Espressif IoT Development Framework. Official development framework for ESP32.
 
 * [Home](https://platformio.org/frameworks/espidf) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/espidf.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/espidf.html)
 
 # Examples
 

@@ -4,7 +4,7 @@
 The ARM Cortex Microcontroller Software Interface Standard (CMSIS) is a vendor-independent hardware abstraction layer for the Cortex-M processor series and specifies debugger interfaces. The CMSIS enables consistent and simple software interfaces to the processor for interface peripherals, real-time operating systems, and middleware. It simplifies software re-use, reducing the learning curve for new microcontroller developers and cutting the time-to-market for devices.
 
 * [Home](https://platformio.org/frameworks/cmsis) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/cmsis.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/cmsis.html)
 
 # Examples
 

@@ -4,7 +4,7 @@
 Teensy is a complete USB-based microcontroller development system, in a very small footprint, capable of implementing many types of projects. All programming is done via the USB port. No special programmer is needed, only a standard USB cable and a PC or Macintosh with a USB port.
 
 * [Home](https://platformio.org/platforms/teensy) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/platforms/teensy.html) (advanced usage, packages, boards, frameworks, etc.)
+* [Documentation](https://docs.platformio.org/page/platforms/teensy.html) (advanced usage, packages, boards, frameworks, etc.)
 
 # Examples
 

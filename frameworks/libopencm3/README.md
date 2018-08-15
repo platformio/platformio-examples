@@ -4,7 +4,7 @@
 The libOpenCM3 framework aims to create a free/libre/open-source firmware library for various ARM Cortex-M0(+)/M3/M4 microcontrollers, including ST STM32, Ti Tiva and Stellaris, NXP LPC 11xx, 13xx, 15xx, 17xx parts, Atmel SAM3, Energy Micro EFM32 and others.
 
 * [Home](https://platformio.org/frameworks/libopencm3) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/libopencm3.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/libopencm3.html)
 
 # Examples
 

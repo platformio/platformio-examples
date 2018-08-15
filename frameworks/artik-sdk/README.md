@@ -4,7 +4,7 @@
 ARTIK SDK is a C/C++ SDK targeting Samsung ARTIK platforms. It exposes a set of APIs to ease up development of applications. These APIs cover hardware buses such as GPIO, SPI, I2C, UART, connectivity links like Wi-Fi, Bluetooth, Zigbee, and network protocols such as HTTP, Websockets, MQTT, and others.
 
 * [Home](https://platformio.org/frameworks/artik-sdk) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/artik-sdk.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/artik-sdk.html)
 
 # Examples
 

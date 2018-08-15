@@ -4,7 +4,7 @@
 Open Source Software for Developing on the SiFive Freedom E Platform
 
 * [Home](https://platformio.org/frameworks/freedom-e-sdk) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/freedom-e-sdk.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/freedom-e-sdk.html)
 
 # Examples
 

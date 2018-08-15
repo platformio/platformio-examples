@@ -4,7 +4,7 @@
 The IOP (Internet Offload Processor) W7500 is the one-chip solution which integrates an ARM Cortex-M0, 128KB Flash and hardwired TCP/IP core for various embedded application platform especially requiring Internet of things
 
 * [Home](https://platformio.org/platforms/wiznet7500) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/platforms/wiznet7500.html) (advanced usage, packages, boards, frameworks, etc.)
+* [Documentation](https://docs.platformio.org/page/platforms/wiznet7500.html) (advanced usage, packages, boards, frameworks, etc.)
 
 # Examples
 

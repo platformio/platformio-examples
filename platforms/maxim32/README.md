@@ -4,7 +4,7 @@
 Maxim's microcontrollers provide low-power, efficient, and secure solutions for challenging embedded applications. Maxim's processors embed cutting-edge technologies to secure data and intellectual property, proven analog circuitry for real-world applications, and battery-conserving low power operation.
 
 * [Home](https://platformio.org/platforms/maxim32) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/platforms/maxim32.html) (advanced usage, packages, boards, frameworks, etc.)
+* [Documentation](https://docs.platformio.org/page/platforms/maxim32.html) (advanced usage, packages, boards, frameworks, etc.)
 
 # Examples
 

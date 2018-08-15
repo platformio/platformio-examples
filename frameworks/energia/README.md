@@ -4,7 +4,7 @@
 Energia Wiring-based framework enables pretty much anyone to start easily creating microcontroller-based projects and applications. Its easy-to-use libraries and functions provide developers of all experience levels to start blinking LEDs, buzzing buzzers and sensing sensors more quickly than ever before.
 
 * [Home](https://platformio.org/frameworks/energia) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/energia.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/energia.html)
 
 # Examples
 

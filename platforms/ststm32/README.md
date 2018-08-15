@@ -4,7 +4,7 @@
 The STM32 family of 32-bit Flash MCUs based on the ARM Cortex-M processor is designed to offer new degrees of freedom to MCU users. It offers a 32-bit product range that combines very high performance, real-time capabilities, digital signal processing, and low-power, low-voltage operation, while maintaining full integration and ease of development.
 
 * [Home](https://platformio.org/platforms/ststm32) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/platforms/ststm32.html) (advanced usage, packages, boards, frameworks, etc.)
+* [Documentation](https://docs.platformio.org/page/platforms/ststm32.html) (advanced usage, packages, boards, frameworks, etc.)
 
 # Examples
 

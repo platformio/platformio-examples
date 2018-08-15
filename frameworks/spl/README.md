@@ -4,7 +4,7 @@
 The ST Standard Peripheral Library provides a set of functions for handling the peripherals on the STM32 Cortex-M3 family. The idea is to save the user (the new user, in particular) having to deal directly with the registers.
 
 * [Home](https://platformio.org/frameworks/spl) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/spl.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/spl.html)
 
 # Examples
 

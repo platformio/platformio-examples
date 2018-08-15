@@ -4,7 +4,7 @@
 Simba is an RTOS and build framework. It aims to make embedded programming easy and portable.
 
 * [Home](https://platformio.org/frameworks/simba) (home page in PlatformIO Registry)
-* [Documentation](http://docs.platformio.org/page/frameworks/simba.html)
+* [Documentation](https://docs.platformio.org/page/frameworks/simba.html)
 
 # Examples
 
