@@ -24,6 +24,7 @@
 * [Nordic nRF52](https://github.com/platformio/platform-nordicnrf52/tree/master/examples)
 * [NXP LPC](https://github.com/platformio/platform-nxplpc/tree/master/examples)
 * [RISC-V](https://github.com/platformio/platform-riscv/tree/master/examples)
+* [RISC-V GAP](https://github.com/pioplus/platform-riscv_gap/tree/master/examples)
 * [Samsung ARTIK](https://github.com/platformio/platform-samsung_artik/tree/master/examples)
 * [Silicon Labs EFM32](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples)
 * [ST STM32](https://github.com/platformio/platform-ststm32/tree/master/examples)
