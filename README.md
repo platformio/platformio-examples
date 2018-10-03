@@ -53,6 +53,7 @@
 * [Freedom E SDK](https://docs.platformio.org/en/latest/frameworks/freedom-e-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [libOpenCM3](https://docs.platformio.org/en/latest/frameworks/libopencm3.html?utm_source=github&utm_medium=examples#examples)
 * [mbed](https://docs.platformio.org/en/latest/frameworks/mbed.html?utm_source=github&utm_medium=examples#examples)
+* [PULP OS](https://docs.platformio.org/en/latest/frameworks/pulp-os.html?utm_source=github&utm_medium=examples#examples)
 * [Pumbaa](https://docs.platformio.org/en/latest/frameworks/pumbaa.html?utm_source=github&utm_medium=examples#examples)
 * [Simba](https://docs.platformio.org/en/latest/frameworks/simba.html?utm_source=github&utm_medium=examples#examples)
 * [SPL](https://docs.platformio.org/en/latest/frameworks/spl.html?utm_source=github&utm_medium=examples#examples)
