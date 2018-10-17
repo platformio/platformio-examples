@@ -9,6 +9,7 @@
 
 ### Embedded
 
+* [Aceinna IMU](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples)
 * [Atmel AVR](https://github.com/platformio/platform-atmelavr/tree/master/examples)
 * [Atmel SAM](https://github.com/platformio/platform-atmelsam/tree/master/examples)
 * [Espressif 32](https://github.com/platformio/platform-espressif32/tree/master/examples)
