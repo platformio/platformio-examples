@@ -90,6 +90,7 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [mbed-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-blink)
   * [mbed-dsp](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-dsp)
   * [mbed-events](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-events)
+  * [mbed-nfc](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-nfc)
   * [mbed-rtos](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos)
   * [mbed-serial](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-serial)
 

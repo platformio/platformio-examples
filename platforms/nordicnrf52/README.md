@@ -14,5 +14,6 @@ The nRF52 Series are built for speed to carry out increasingly complex tasks in 
 * [mbed-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-blink)
 * [mbed-dsp](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-dsp)
 * [mbed-events](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-events)
+* [mbed-nfc](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-nfc)
 * [mbed-rtos](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos)
 * [mbed-serial](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-serial)

@@ -51,6 +51,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-blink)
   * [mbed-dsp](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-dsp)
   * [mbed-events](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-events)
+  * [mbed-nfc](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-nfc)
   * [mbed-rtos](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos)
   * [mbed-serial](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-serial)
 
