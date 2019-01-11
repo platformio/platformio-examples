@@ -118,6 +118,14 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [stm32cube-hal-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-blink)
   * [stm32cube-ll-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-ll-blink)
 
+- [ST STM8](https://github.com/platformio/platform-ststm8)
+  * [arduino-fade-all-pins](https://github.com/platformio/platform-ststm8/tree/master/examples/arduino-fade-all-pins)
+  * [arduino-internal-lib](https://github.com/platformio/platform-ststm8/tree/master/examples/arduino-internal-lib)
+  * [arduino-ping-hc04](https://github.com/platformio/platform-ststm8/tree/master/examples/arduino-ping-hc04)
+  * [spl-blink](https://github.com/platformio/platform-ststm8/tree/master/examples/spl-blink)
+  * [spl-flash](https://github.com/platformio/platform-ststm8/tree/master/examples/spl-flash)
+  * [spl-uart](https://github.com/platformio/platform-ststm8/tree/master/examples/spl-uart)
+
 - [Teensy](https://github.com/platformio/platform-teensy)
   * [arduino-blink](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-blink)
   * [arduino-hid-usb-mouse](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-hid-usb-mouse)

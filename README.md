@@ -29,6 +29,7 @@
 * [Samsung ARTIK](https://github.com/platformio/platform-samsung_artik/tree/master/examples)
 * [Silicon Labs EFM32](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples)
 * [ST STM32](https://github.com/platformio/platform-ststm32/tree/master/examples)
+* [ST STM8](https://github.com/platformio/platform-ststm8/tree/master/examples)
 * [Teensy](https://github.com/platformio/platform-teensy/tree/master/examples)
 * [TI MSP430](https://github.com/platformio/platform-timsp430/tree/master/examples)
 * [TI TIVA](https://github.com/platformio/platform-titiva/tree/master/examples)
