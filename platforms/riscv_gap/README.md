@@ -8,6 +8,7 @@ GreenWaves GAP8 IoT application processor enables the cost-effective development
 
 # Examples
 
+* [gapuino-mbed-autotiler-cifar10](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-autotiler-cifar10)
 * [gapuino-mbed-driver-cpp-raw-serial](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-driver-cpp-raw-serial)
 * [gapuino-mbed-driver-hyper-flash](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-driver-hyper-flash)
 * [gapuino-mbed-driver-hyper-rtc-alarm](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-driver-hyper-rtc-alarm)
@@ -18,6 +19,8 @@ GreenWaves GAP8 IoT application processor enables the cost-effective development
 * [gapuino-mbed-matadd](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-matadd)
 * [gapuino-mbed-os-irq](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-os-irq)
 * [gapuino-mbed-os-memory-pool](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-os-memory-pool)
+* [gapuino-pulp-os-autotiler-bilinear-resize](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-autotiler-bilinear-resize)
+* [gapuino-pulp-os-autotiler-cifar10](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-autotiler-cifar10)
 * [gapuino-pulp-os-filesystem](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-filesystem)
 * [gapuino-pulp-os-hello-world](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-hello-world)
 * [gapuino-pulp-os-i2c-eeprom](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-i2c-eeprom)

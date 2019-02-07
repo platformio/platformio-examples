@@ -25,6 +25,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-events](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-events)
   * [mbed-rtos](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos)
   * [mbed-rtos-ethernet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-ethernet)
+  * [mbed-rtos-tls-client](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-tls-client)
   * [mbed-serial](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-serial)
 
 - [Maxim 32](https://github.com/platformio/platform-maxim32)
@@ -65,6 +66,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-serial)
 
 - [RISC-V GAP](https://github.com/pioplus/platform-riscv_gap)
+  * [gapuino-mbed-autotiler-cifar10](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-autotiler-cifar10)
   * [gapuino-mbed-driver-cpp-raw-serial](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-driver-cpp-raw-serial)
   * [gapuino-mbed-driver-hyper-flash](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-driver-hyper-flash)
   * [gapuino-mbed-driver-hyper-rtc-alarm](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-driver-hyper-rtc-alarm)
@@ -75,6 +77,8 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [gapuino-mbed-matadd](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-matadd)
   * [gapuino-mbed-os-irq](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-os-irq)
   * [gapuino-mbed-os-memory-pool](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-os-memory-pool)
+  * [gapuino-pulp-os-autotiler-bilinear-resize](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-autotiler-bilinear-resize)
+  * [gapuino-pulp-os-autotiler-cifar10](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-autotiler-cifar10)
   * [gapuino-pulp-os-filesystem](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-filesystem)
   * [gapuino-pulp-os-hello-world](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-hello-world)
   * [gapuino-pulp-os-i2c-eeprom](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-i2c-eeprom)
@@ -104,6 +108,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-rtos](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos)
   * [mbed-rtos-ethernet](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-ethernet)
   * [mbed-rtos-ethernet-tls](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-ethernet-tls)
+  * [mbed-rtos-mesh-minimal](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-mesh-minimal)
   * [mbed-rtos-semaphore](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-semaphore)
   * [mbed-serial](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-serial)
   * [spl-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/spl-blink)

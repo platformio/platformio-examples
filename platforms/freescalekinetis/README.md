@@ -13,4 +13,5 @@ Freescale Kinetis Microcontrollers is family of multiple hardware- and software-
 * [mbed-events](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-events)
 * [mbed-rtos](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos)
 * [mbed-rtos-ethernet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-ethernet)
+* [mbed-rtos-tls-client](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-tls-client)
 * [mbed-serial](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-serial)

@@ -26,6 +26,7 @@ The ARM Cortex Microcontroller Software Interface Standard (CMSIS) is a vendor-i
   * [mbed-rtos](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos)
   * [mbed-rtos-ethernet](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-ethernet)
   * [mbed-rtos-ethernet-tls](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-ethernet-tls)
+  * [mbed-rtos-mesh-minimal](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-mesh-minimal)
   * [mbed-rtos-semaphore](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-semaphore)
   * [mbed-serial](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-serial)
   * [spl-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/spl-blink)
