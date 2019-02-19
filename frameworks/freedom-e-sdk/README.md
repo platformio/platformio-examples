@@ -14,4 +14,5 @@ Open Source Software for Developing on the SiFive Freedom E Platform
   * [freedom-e-sdk_gpio](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_gpio)
   * [freedom-e-sdk_hello](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_hello)
   * [freedom-e-sdk_smp](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_smp)
+  * [native-blink_asm](https://github.com/platformio/platform-riscv/tree/master/examples/native-blink_asm)
 

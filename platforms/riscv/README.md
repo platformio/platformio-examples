@@ -13,3 +13,4 @@ RISC-V is an open, free ISA enabling a new era of processor innovation through o
 * [freedom-e-sdk_gpio](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_gpio)
 * [freedom-e-sdk_hello](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_hello)
 * [freedom-e-sdk_smp](https://github.com/platformio/platform-riscv/tree/master/examples/freedom-e-sdk_smp)
+* [native-blink_asm](https://github.com/platformio/platform-riscv/tree/master/examples/native-blink_asm)
