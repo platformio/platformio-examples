@@ -14,5 +14,4 @@ Espressif Systems is a privately held fabless semiconductor company. They provid
 * [arduino-wifiscan](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-wifiscan)
 * [esp8266-nonos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-nonos-sdk-blink)
 * [esp8266-rtos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-rtos-sdk-blink)
-* [native-sdk](https://github.com/platformio/platform-espressif8266/tree/master/examples/native-sdk)
 * [simba-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/simba-blink)
