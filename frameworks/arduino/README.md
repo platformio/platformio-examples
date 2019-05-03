@@ -68,6 +68,10 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [arduino-curie-imu](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-curie-imu)
   * [arduino-internal-libs](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-internal-libs)
 
+- [Kendryte K210](https://github.com/sipeed/platform-kendryte210)
+  * [arduino-blink](https://github.com/sipeed/platform-kendryte210/tree/master/examples/arduino-blink)
+  * [kendryte-standalone-sdk_hello](https://github.com/sipeed/platform-kendryte210/tree/master/examples/kendryte-standalone-sdk_hello)
+
 - [Microchip PIC32](https://github.com/platformio/platform-microchippic32)
   * [arduino-blink](https://github.com/platformio/platform-microchippic32/tree/master/examples/arduino-blink)
   * [arduino-internal-libs](https://github.com/platformio/platform-microchippic32/tree/master/examples/arduino-internal-libs)
@@ -86,6 +90,7 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-ble-led)
   * [arduino-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-blink)
   * [arduino-bluefruit-bleuart](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-bluefruit-bleuart)
+  * [arduino-nina-b1-generic-example](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-nina-b1-generic-example)
   * [mbed-ble-thermometer](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-ble-thermometer)
   * [mbed-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-blink)
   * [mbed-dsp](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-dsp)

@@ -49,6 +49,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-ble-led)
   * [arduino-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-blink)
   * [arduino-bluefruit-bleuart](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-bluefruit-bleuart)
+  * [arduino-nina-b1-generic-example](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-nina-b1-generic-example)
   * [mbed-ble-thermometer](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-ble-thermometer)
   * [mbed-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-blink)
   * [mbed-dsp](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-dsp)
