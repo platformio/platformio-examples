@@ -19,5 +19,7 @@ Espressif Systems is a privately held fabless semiconductor company. They provid
 * [espidf-http-request](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-http-request)
 * [espidf-peripherals-uart](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-peripherals-uart)
 * [espidf-storage-sdcard](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-storage-sdcard)
+* [espidf-ulp-adc](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-ulp-adc)
+* [espidf-ulp-pulse](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-ulp-pulse)
 * [pumbaa-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/pumbaa-blink)
 * [simba-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/simba-blink)
