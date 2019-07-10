@@ -40,7 +40,7 @@ void test_function_calculator_multiplication(void) {
 }
 
 void test_function_calculator_division(void) {
-    TEST_ASSERT_EQUAL(32, calc.div(100, 3));
+    TEST_ASSERT_EQUAL(33, calc.div(100, 3));
 }
 
 int main(int argc, char **argv) {
