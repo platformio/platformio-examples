@@ -55,6 +55,7 @@
 * [ESP8266 RTOS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-rtos-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [Freedom E SDK](https://docs.platformio.org/en/latest/frameworks/freedom-e-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [Kendryte Standalone SDK](https://docs.platformio.org/en/latest/frameworks/kendryte-standalone-sdk.html?utm_source=github&utm_medium=examples#examples)
+* [Kendryte FreeRTOS SDK](https://docs.platformio.org/en/latest/frameworks/kendryte-freertos-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [libOpenCM3](https://docs.platformio.org/en/latest/frameworks/libopencm3.html?utm_source=github&utm_medium=examples#examples)
 * [mbed](https://docs.platformio.org/en/latest/frameworks/mbed.html?utm_source=github&utm_medium=examples#examples)
 * [PULP OS](https://docs.platformio.org/en/latest/frameworks/pulp-os.html?utm_source=github&utm_medium=examples#examples)

@@ -8,7 +8,6 @@ SiFive brings the power of open source and software automation to the semiconduc
 
 # Examples
 
-* [freedom-e-sdk_dhrystone](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_dhrystone)
 * [freedom-e-sdk_hello](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_hello)
 * [freedom-e-sdk_multicore-hello](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_multicore-hello)
 * [freedom-e-sdk_sifive-welcome](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_sifive-welcome)

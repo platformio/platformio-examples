@@ -1,10 +1,10 @@
 
-# Kendryte Standalone SDK: framework for [PlatformIO](https://platformio.org)
+# Kendryte FreeRTOS SDK: framework for [PlatformIO](https://platformio.org)
 
-Kendryte Standalone SDK without OS support
+Kendryte SDK with FreeRTOS support
 
-* [Home](https://platformio.org/frameworks/kendryte-standalone-sdk) (home page in PlatformIO Registry)
-* [Documentation](https://docs.platformio.org/page/frameworks/kendryte-standalone-sdk.html)
+* [Home](https://platformio.org/frameworks/kendryte-freertos-sdk) (home page in PlatformIO Registry)
+* [Documentation](https://docs.platformio.org/page/frameworks/kendryte-freertos-sdk.html)
 
 # Examples
 
