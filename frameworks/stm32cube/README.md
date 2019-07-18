@@ -20,6 +20,7 @@ STM32Cube embedded software libraries, including: The HAL hardware abstraction l
   * [libopencm3-1bitsy](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-1bitsy)
   * [libopencm3-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-blink)
   * [mbed-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-blink)
+  * [mbed-custom-target](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-custom-target)
   * [mbed-dsp](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-dsp)
   * [mbed-events](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-events)
   * [mbed-filesystem](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-filesystem)

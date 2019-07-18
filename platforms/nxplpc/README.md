@@ -9,6 +9,7 @@ The NXP LPC is a family of 32-bit microcontroller integrated circuits by NXP Sem
 # Examples
 
 * [mbed-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-blink)
+* [mbed-custom-target](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-custom-target)
 * [mbed-dsp](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-dsp)
 * [mbed-events](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-events)
 * [mbed-http-client](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-http-client)

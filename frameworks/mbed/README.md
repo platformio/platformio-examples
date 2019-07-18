@@ -60,6 +60,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
 
 - [NXP LPC](https://github.com/platformio/platform-nxplpc)
   * [mbed-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-blink)
+  * [mbed-custom-target](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-custom-target)
   * [mbed-dsp](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-dsp)
   * [mbed-events](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-events)
   * [mbed-http-client](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-http-client)
@@ -104,6 +105,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [libopencm3-1bitsy](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-1bitsy)
   * [libopencm3-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-blink)
   * [mbed-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-blink)
+  * [mbed-custom-target](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-custom-target)
   * [mbed-dsp](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-dsp)
   * [mbed-events](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-events)
   * [mbed-filesystem](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-filesystem)
