@@ -49,7 +49,6 @@
 * [Arduino](https://docs.platformio.org/en/latest/frameworks/arduino.html?utm_source=github&utm_medium=examples#examples)
 * [ARTIK SDK](https://docs.platformio.org/en/latest/frameworks/artik-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [CMSIS](https://docs.platformio.org/en/latest/frameworks/cmsis.html?utm_source=github&utm_medium=examples#examples)
-* [Energia](https://docs.platformio.org/en/latest/frameworks/energia.html?utm_source=github&utm_medium=examples#examples)
 * [ESP-IDF](https://docs.platformio.org/en/latest/frameworks/espidf.html?utm_source=github&utm_medium=examples#examples)
 * [ESP8266 Non-OS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-nonos-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [ESP8266 RTOS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-rtos-sdk.html?utm_source=github&utm_medium=examples#examples)

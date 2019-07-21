@@ -35,8 +35,8 @@ The libOpenCM3 framework aims to create a free/libre/open-source firmware librar
   * [stm32cube-ll-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-ll-blink)
 
 - [TI TIVA](https://github.com/platformio/platform-titiva)
-  * [energia-blink](https://github.com/platformio/platform-titiva/tree/master/examples/energia-blink)
-  * [energia-internal-libs](https://github.com/platformio/platform-titiva/tree/master/examples/energia-internal-libs)
+  * [arduino-blink](https://github.com/platformio/platform-titiva/tree/master/examples/arduino-blink)
+  * [arduino-internal-libs](https://github.com/platformio/platform-titiva/tree/master/examples/arduino-internal-libs)
   * [libopencm3-blink](https://github.com/platformio/platform-titiva/tree/master/examples/libopencm3-blink)
   * [native-blink](https://github.com/platformio/platform-titiva/tree/master/examples/native-blink)
 

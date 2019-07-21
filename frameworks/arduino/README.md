@@ -150,7 +150,12 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
 
 - [TI MSP430](https://github.com/platformio/platform-timsp430)
   * [arduino-blink](https://github.com/platformio/platform-timsp430/tree/master/examples/arduino-blink)
-  * [energia-blink](https://github.com/platformio/platform-timsp430/tree/master/examples/energia-blink)
-  * [energia-internal-libs](https://github.com/platformio/platform-timsp430/tree/master/examples/energia-internal-libs)
+  * [arduino-internal-libs](https://github.com/platformio/platform-timsp430/tree/master/examples/arduino-internal-libs)
   * [native-blink](https://github.com/platformio/platform-timsp430/tree/master/examples/native-blink)
+
+- [TI TIVA](https://github.com/platformio/platform-titiva)
+  * [arduino-blink](https://github.com/platformio/platform-titiva/tree/master/examples/arduino-blink)
+  * [arduino-internal-libs](https://github.com/platformio/platform-titiva/tree/master/examples/arduino-internal-libs)
+  * [libopencm3-blink](https://github.com/platformio/platform-titiva/tree/master/examples/libopencm3-blink)
+  * [native-blink](https://github.com/platformio/platform-titiva/tree/master/examples/native-blink)
 
