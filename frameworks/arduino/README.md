@@ -88,7 +88,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [mbed-ble-thermometer](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-ble-thermometer)
   * [mbed-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-blink)
   * [mbed-events](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-events)
-  * [mbed-microbit-hello-world](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-microbit-hello-world)
   * [mbed-serial](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-serial)
 
 - [Nordic nRF52](https://github.com/platformio/platform-nordicnrf52)
@@ -145,7 +144,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [mbed-blink](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-blink)
   * [mbed-dsp](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-dsp)
   * [mbed-events](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-events)
-  * [mbed-rtos](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-rtos)
   * [mbed-serial](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-serial)
 
 - [TI MSP430](https://github.com/platformio/platform-timsp430)

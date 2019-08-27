@@ -42,7 +42,6 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-ble-thermometer](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-ble-thermometer)
   * [mbed-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-blink)
   * [mbed-events](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-events)
-  * [mbed-microbit-hello-world](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-microbit-hello-world)
   * [mbed-serial](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-serial)
 
 - [Nordic nRF52](https://github.com/platformio/platform-nordicnrf52)
@@ -63,7 +62,6 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-custom-target](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-custom-target)
   * [mbed-dsp](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-dsp)
   * [mbed-events](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-events)
-  * [mbed-http-client](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-http-client)
   * [mbed-rtos](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos)
   * [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-ethernet)
   * [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-serial)
@@ -126,7 +124,6 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-blink](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-blink)
   * [mbed-dsp](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-dsp)
   * [mbed-events](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-events)
-  * [mbed-rtos](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-rtos)
   * [mbed-serial](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-serial)
 
 - [WIZNet W7500](https://github.com/platformio/platform-wiznet7500)
