@@ -57,6 +57,11 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [esp8266-rtos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-rtos-sdk-blink)
   * [simba-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/simba-blink)
 
+- [GigaDevice GD32V](https://github.com/sipeed/platform-gd32v)
+  * [arduino-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/arduino-blink)
+  * [eval-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/eval-blink)
+  * [longan-nano-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/longan-nano-blink)
+
 - [Infineon XMC](https://github.com/Infineon/platformio-infineonxmc)
   * [arduino-blink](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/arduino-blink)
   * [arduino-wire](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/arduino-wire)

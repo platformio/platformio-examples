@@ -8,9 +8,6 @@ Open-source, embedded development platform for Aceinna IMU hardware. Run custom 
 
 # Examples
 
-* [Compass](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/Compass)
-* [Framework](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/Framework)
-* [IMU](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/IMU)
-* [INS](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/INS)
-* [Leveler](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/Leveler)
-* [VG_AHRS](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/VG_AHRS)
+* [OpenIMU300RI](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/OpenIMU300RI)
+* [OpenIMU300ZI](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/OpenIMU300ZI)
+* [OpenIMU330BI](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/OpenIMU330BI)
