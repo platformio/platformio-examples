@@ -86,3 +86,7 @@ void unittest_uart_end() {
   USARTx_RX_GPIO_CLK_DISABLE();
   USARTx_TX_GPIO_CLK_DISABLE();
 }
+
+void SysTick_Handler(void) {
+  HAL_IncTick();
+}
