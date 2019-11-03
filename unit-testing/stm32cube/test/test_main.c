@@ -64,3 +64,7 @@ int main() {
 
     while(1){}
 }
+
+void SysTick_Handler(void) {
+  HAL_IncTick();
+}
