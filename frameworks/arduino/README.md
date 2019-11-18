@@ -18,6 +18,12 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [native-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/native-blink)
   * [simba-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/simba-blink)
 
+- [Atmel megaAVR](https://github.com/platformio/platform-atmelmegaavr)
+  * [arduino-blink](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/arduino-blink)
+  * [arduino-external-libs](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/arduino-external-libs)
+  * [arduino-internal-libs](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/arduino-internal-libs)
+  * [native-blink](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/native-blink)
+
 - [Atmel SAM](https://github.com/platformio/platform-atmelsam)
   * [arduino-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-blink)
   * [arduino-external-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-external-libs)

@@ -11,6 +11,7 @@
 
 * [Aceinna IMU](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples)
 * [Atmel AVR](https://github.com/platformio/platform-atmelavr/tree/master/examples)
+* [Atmel megaAVR](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples)
 * [Atmel SAM](https://github.com/platformio/platform-atmelsam/tree/master/examples)
 * [Espressif 32](https://github.com/platformio/platform-espressif32/tree/master/examples)
 * [Espressif 8266](https://github.com/platformio/platform-espressif8266/tree/master/examples)
