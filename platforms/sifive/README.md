@@ -17,3 +17,6 @@ SiFive brings the power of open source and software automation to the semiconduc
 * [freedom-e-sdk_user-mode](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_user-mode)
 * [freedom-e-sdk_user-syscall](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_user-syscall)
 * [native-blink_asm](https://github.com/platformio/platform-sifive/tree/master/examples/native-blink_asm)
+* [zephyr-blink](https://github.com/platformio/platform-sifive/tree/master/examples/zephyr-blink)
+* [zephyr-hello-world](https://github.com/platformio/platform-sifive/tree/master/examples/zephyr-hello-world)
+* [zephyr-synchronization](https://github.com/platformio/platform-sifive/tree/master/examples/zephyr-synchronization)

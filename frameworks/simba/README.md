@@ -28,6 +28,9 @@ Simba is an RTOS and build framework. It aims to make embedded programming easy 
   * [mbed-events](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-events)
   * [mbed-serial](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-serial)
   * [simba-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/simba-blink)
+  * [zephyr-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
+  * [zephyr-drivers-i2c-scanner](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-i2c-scanner)
+  * [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
 
 - [Espressif 32](https://github.com/platformio/platform-espressif32)
   * [arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-blink)

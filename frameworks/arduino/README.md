@@ -34,6 +34,9 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [mbed-events](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-events)
   * [mbed-serial](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-serial)
   * [simba-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/simba-blink)
+  * [zephyr-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
+  * [zephyr-drivers-i2c-scanner](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-i2c-scanner)
+  * [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
 
 - [Espressif 32](https://github.com/platformio/platform-espressif32)
   * [arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-blink)
@@ -100,6 +103,9 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [mbed-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-blink)
   * [mbed-events](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-events)
   * [mbed-serial](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-serial)
+  * [zephyr-ble-eddystone](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-ble-eddystone)
+  * [zephyr-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-blink)
+  * [zephyr-drivers-entropy](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-drivers-entropy)
 
 - [Nordic nRF52](https://github.com/platformio/platform-nordicnrf52)
   * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-ble-led)
@@ -113,6 +119,9 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [mbed-nfc](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-nfc)
   * [mbed-rtos](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos)
   * [mbed-serial](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-serial)
+  * [zephyr-ble-beacon](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-ble-beacon)
+  * [zephyr-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-blink)
+  * [zephyr-subsys-nvs](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-subsys-nvs)
 
 - [ST STM32](https://github.com/platformio/platform-ststm32)
   * [arduino-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-blink)
@@ -139,6 +148,10 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [spl-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/spl-blink)
   * [stm32cube-hal-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-blink)
   * [stm32cube-ll-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-ll-blink)
+  * [zephyr-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-blink)
+  * [zephyr-cpp-synchronization](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-cpp-synchronization)
+  * [zephyr-drivers-can](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-drivers-can)
+  * [zephyr-subsys-usb-hid-mouse](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-subsys-usb-hid-mouse)
 
 - [ST STM8](https://github.com/platformio/platform-ststm8)
   * [arduino-fade-all-pins](https://github.com/platformio/platform-ststm8/tree/master/examples/arduino-fade-all-pins)

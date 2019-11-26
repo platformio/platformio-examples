@@ -33,4 +33,8 @@ The ARM Cortex Microcontroller Software Interface Standard (CMSIS) is a vendor-i
   * [spl-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/spl-blink)
   * [stm32cube-hal-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-blink)
   * [stm32cube-ll-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-ll-blink)
+  * [zephyr-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-blink)
+  * [zephyr-cpp-synchronization](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-cpp-synchronization)
+  * [zephyr-drivers-can](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-drivers-can)
+  * [zephyr-subsys-usb-hid-mouse](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-subsys-usb-hid-mouse)
 

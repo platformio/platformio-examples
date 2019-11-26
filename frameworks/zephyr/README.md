@@ -1,10 +1,10 @@
 
-# Mbed: framework for [PlatformIO](https://platformio.org)
+# Zephyr: framework for [PlatformIO](https://platformio.org)
 
-The mbed framework The mbed SDK has been designed to provide enough hardware abstraction to be intuitive and concise, yet powerful enough to build complex projects. It is built on the low-level ARM CMSIS APIs, allowing you to code down to the metal if needed. In addition to RTOS, USB and Networking libraries, a cookbook of hundreds of reusable peripheral and module libraries have been built on top of the SDK by the mbed Developer Community.
+The Zephyr Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with safety and security in mind.
 
-* [Home](https://platformio.org/frameworks/mbed) (home page in PlatformIO Registry)
-* [Documentation](https://docs.platformio.org/page/frameworks/mbed.html)
+* [Home](https://platformio.org/frameworks/zephyr) (home page in PlatformIO Registry)
+* [Documentation](https://docs.platformio.org/page/frameworks/zephyr.html)
 
 # Examples
 
@@ -33,13 +33,6 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [zephyr-blink](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-blink)
   * [zephyr-net-telnet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-net-telnet)
   * [zephyr-sensor-sx9500](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-sensor-sx9500)
-
-- [Maxim 32](https://github.com/platformio/platform-maxim32)
-  * [mbed-blink](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-blink)
-  * [mbed-dsp](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-dsp)
-  * [mbed-events](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-events)
-  * [mbed-rtos](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-rtos)
-  * [mbed-serial](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-serial)
 
 - [Nordic nRF51](https://github.com/platformio/platform-nordicnrf51)
   * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-ble-led)
@@ -81,24 +74,19 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [zephyr-drivers-watchdog](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-drivers-watchdog)
   * [zephyr-synchronization](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-synchronization)
 
-- [RISC-V GAP](https://github.com/pioplus/platform-riscv_gap)
-  * [gapuino-mbed-autotiler-cifar10](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-autotiler-cifar10)
-  * [gapuino-mbed-driver-cpp-raw-serial](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-driver-cpp-raw-serial)
-  * [gapuino-mbed-driver-hyper-flash](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-driver-hyper-flash)
-  * [gapuino-mbed-driver-hyper-rtc-alarm](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-driver-hyper-rtc-alarm)
-  * [gapuino-mbed-events-queue](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-events-queue)
-  * [gapuino-mbed-features-cluster-dma](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-features-cluster-dma)
-  * [gapuino-mbed-features-filesystem](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-features-filesystem)
-  * [gapuino-mbed-fft2d](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-fft2d)
-  * [gapuino-mbed-matadd](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-matadd)
-  * [gapuino-mbed-os-irq](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-os-irq)
-  * [gapuino-mbed-os-memory-pool](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-mbed-os-memory-pool)
-  * [gapuino-pulp-os-autotiler-bilinear-resize](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-autotiler-bilinear-resize)
-  * [gapuino-pulp-os-autotiler-cifar10](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-autotiler-cifar10)
-  * [gapuino-pulp-os-filesystem](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-filesystem)
-  * [gapuino-pulp-os-hello-world](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-hello-world)
-  * [gapuino-pulp-os-i2c-eeprom](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-i2c-eeprom)
-  * [gapuino-pulp-os-kernel-dma](https://github.com/pioplus/platform-riscv_gap/tree/master/examples/gapuino-pulp-os-kernel-dma)
+- [SiFive](https://github.com/platformio/platform-sifive)
+  * [freedom-e-sdk_hello](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_hello)
+  * [freedom-e-sdk_multicore-hello](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_multicore-hello)
+  * [freedom-e-sdk_sifive-welcome](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_sifive-welcome)
+  * [freedom-e-sdk_spi](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_spi)
+  * [freedom-e-sdk_test-coreip](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_test-coreip)
+  * [freedom-e-sdk_timer-interrupt](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_timer-interrupt)
+  * [freedom-e-sdk_user-mode](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_user-mode)
+  * [freedom-e-sdk_user-syscall](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_user-syscall)
+  * [native-blink_asm](https://github.com/platformio/platform-sifive/tree/master/examples/native-blink_asm)
+  * [zephyr-blink](https://github.com/platformio/platform-sifive/tree/master/examples/zephyr-blink)
+  * [zephyr-hello-world](https://github.com/platformio/platform-sifive/tree/master/examples/zephyr-hello-world)
+  * [zephyr-synchronization](https://github.com/platformio/platform-sifive/tree/master/examples/zephyr-synchronization)
 
 - [Silicon Labs EFM32](https://github.com/platformio/platform-siliconlabsefm32)
   * [mbed-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-blink)
@@ -138,20 +126,4 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [zephyr-cpp-synchronization](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-cpp-synchronization)
   * [zephyr-drivers-can](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-drivers-can)
   * [zephyr-subsys-usb-hid-mouse](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-subsys-usb-hid-mouse)
-
-- [Teensy](https://github.com/platformio/platform-teensy)
-  * [arduino-blink](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-blink)
-  * [arduino-hid-usb-mouse](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-hid-usb-mouse)
-  * [arduino-internal-libs](https://github.com/platformio/platform-teensy/tree/master/examples/arduino-internal-libs)
-  * [mbed-blink](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-blink)
-  * [mbed-dsp](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-dsp)
-  * [mbed-events](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-events)
-  * [mbed-serial](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-serial)
-
-- [WIZNet W7500](https://github.com/platformio/platform-wiznet7500)
-  * [mbed-blink](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-blink)
-  * [mbed-dsp](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-dsp)
-  * [mbed-events](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-events)
-  * [mbed-rtos](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-rtos)
-  * [mbed-serial](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-serial)
 

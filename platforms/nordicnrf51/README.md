@@ -15,3 +15,6 @@ The Nordic nRF51 Series is a family of highly flexible, multi-protocol, system-o
 * [mbed-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-blink)
 * [mbed-events](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-events)
 * [mbed-serial](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-serial)
+* [zephyr-ble-eddystone](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-ble-eddystone)
+* [zephyr-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-blink)
+* [zephyr-drivers-entropy](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-drivers-entropy)

@@ -17,3 +17,6 @@ Atmel | SMART offers Flash- based ARM products based on the ARM Cortex-M0+, Cort
 * [mbed-events](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-events)
 * [mbed-serial](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-serial)
 * [simba-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/simba-blink)
+* [zephyr-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
+* [zephyr-drivers-i2c-scanner](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-i2c-scanner)
+* [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)

@@ -60,7 +60,7 @@
 * [Kendryte Standalone SDK](https://docs.platformio.org/en/latest/frameworks/kendryte-standalone-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [Kendryte FreeRTOS SDK](https://docs.platformio.org/en/latest/frameworks/kendryte-freertos-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [libOpenCM3](https://docs.platformio.org/en/latest/frameworks/libopencm3.html?utm_source=github&utm_medium=examples#examples)
-* [mbed](https://docs.platformio.org/en/latest/frameworks/mbed.html?utm_source=github&utm_medium=examples#examples)
+* [Mbed](https://docs.platformio.org/en/latest/frameworks/mbed.html?utm_source=github&utm_medium=examples#examples)
 * [PULP OS](https://docs.platformio.org/en/latest/frameworks/pulp-os.html?utm_source=github&utm_medium=examples#examples)
 * [Pumbaa](https://docs.platformio.org/en/latest/frameworks/pumbaa.html?utm_source=github&utm_medium=examples#examples)
 * [Shakti SDK](https://docs.platformio.org/en/latest/frameworks/shakti-sdk.html?utm_source=github&utm_medium=examples#examples)
@@ -69,3 +69,4 @@
 * [STM32Cube](https://docs.platformio.org/en/latest/frameworks/stm32cube.html?utm_source=github&utm_medium=examples#examples)
 * [Tizen RT](https://docs.platformio.org/en/latest/frameworks/tizenrt.html?utm_source=github&utm_medium=examples#examples)
 * [WiringPi](https://docs.platformio.org/en/latest/frameworks/wiringpi.html?utm_source=github&utm_medium=examples#examples)
+* [Zephyr](https://docs.platformio.org/en/latest/frameworks/zephyr.html?utm_source=github&utm_medium=examples#examples)

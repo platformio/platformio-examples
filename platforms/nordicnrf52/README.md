@@ -19,3 +19,6 @@ The nRF52 Series are built for speed to carry out increasingly complex tasks in 
 * [mbed-nfc](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-nfc)
 * [mbed-rtos](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos)
 * [mbed-serial](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-serial)
+* [zephyr-ble-beacon](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-ble-beacon)
+* [zephyr-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-blink)
+* [zephyr-subsys-nvs](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-subsys-nvs)

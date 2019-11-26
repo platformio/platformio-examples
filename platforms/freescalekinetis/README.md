@@ -15,3 +15,6 @@ Freescale Kinetis Microcontrollers is family of multiple hardware- and software-
 * [mbed-rtos-ethernet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-ethernet)
 * [mbed-rtos-tls-client](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-tls-client)
 * [mbed-serial](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-serial)
+* [zephyr-blink](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-blink)
+* [zephyr-net-telnet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-net-telnet)
+* [zephyr-sensor-sx9500](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-sensor-sx9500)
