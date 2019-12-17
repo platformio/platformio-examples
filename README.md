@@ -28,7 +28,6 @@
 * [Nordic nRF52](https://github.com/platformio/platform-nordicnrf52/tree/master/examples)
 * [NXP LPC](https://github.com/platformio/platform-nxplpc/tree/master/examples)
 * [RISC-V GAP](https://github.com/pioplus/platform-riscv_gap/tree/master/examples)
-* [Samsung ARTIK](https://github.com/platformio/platform-samsung_artik/tree/master/examples)
 * [Shakti](https://github.com/platformio/platform-shakti/tree/master/examples)
 * [SiFive](https://github.com/platformio/platform-sifive/tree/master/examples)
 * [Silicon Labs EFM32](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples)
@@ -50,7 +49,6 @@
 ## Frameworks
 
 * [Arduino](https://docs.platformio.org/en/latest/frameworks/arduino.html?utm_source=github&utm_medium=examples#examples)
-* [ARTIK SDK](https://docs.platformio.org/en/latest/frameworks/artik-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [CMSIS](https://docs.platformio.org/en/latest/frameworks/cmsis.html?utm_source=github&utm_medium=examples#examples)
 * [ESP-IDF](https://docs.platformio.org/en/latest/frameworks/espidf.html?utm_source=github&utm_medium=examples#examples)
 * [ESP8266 Non-OS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-nonos-sdk.html?utm_source=github&utm_medium=examples#examples)
@@ -67,6 +65,5 @@
 * [Simba](https://docs.platformio.org/en/latest/frameworks/simba.html?utm_source=github&utm_medium=examples#examples)
 * [SPL](https://docs.platformio.org/en/latest/frameworks/spl.html?utm_source=github&utm_medium=examples#examples)
 * [STM32Cube](https://docs.platformio.org/en/latest/frameworks/stm32cube.html?utm_source=github&utm_medium=examples#examples)
-* [Tizen RT](https://docs.platformio.org/en/latest/frameworks/tizenrt.html?utm_source=github&utm_medium=examples#examples)
 * [WiringPi](https://docs.platformio.org/en/latest/frameworks/wiringpi.html?utm_source=github&utm_medium=examples#examples)
 * [Zephyr](https://docs.platformio.org/en/latest/frameworks/zephyr.html?utm_source=github&utm_medium=examples#examples)

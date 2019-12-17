@@ -51,6 +51,7 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [arduino-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-blink)
   * [arduino-bluefruit-bleuart](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-bluefruit-bleuart)
   * [arduino-nina-b1-generic-example](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-nina-b1-generic-example)
+  * [arduino-serial-plotter](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-serial-plotter)
   * [mbed-ble-thermometer](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-ble-thermometer)
   * [mbed-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-blink)
   * [mbed-dsp](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-dsp)
@@ -125,5 +126,6 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [zephyr-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-blink)
   * [zephyr-cpp-synchronization](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-cpp-synchronization)
   * [zephyr-drivers-can](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-drivers-can)
+  * [zephyr-modules](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-modules)
   * [zephyr-subsys-usb-hid-mouse](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-subsys-usb-hid-mouse)
 

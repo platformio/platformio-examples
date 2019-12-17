@@ -35,4 +35,5 @@ The STM32 family of 32-bit Flash MCUs based on the ARM Cortex-M processor is des
 * [zephyr-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-blink)
 * [zephyr-cpp-synchronization](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-cpp-synchronization)
 * [zephyr-drivers-can](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-drivers-can)
+* [zephyr-modules](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-modules)
 * [zephyr-subsys-usb-hid-mouse](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-subsys-usb-hid-mouse)
