@@ -9,12 +9,12 @@ The NXP LPC is a family of 32-bit microcontroller integrated circuits by NXP Sem
 # Examples
 
 * [mbed-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-blink)
-* [mbed-custom-target](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-custom-target)
-* [mbed-dsp](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-events)
-* [mbed-rtos](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos)
-* [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-ethernet)
 * [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-serial)
 * [zephyr-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-blink)
+* [mbed-rtos](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos)
+* [mbed-events](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-events)
+* [mbed-custom-target](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-custom-target)
 * [zephyr-drivers-watchdog](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-drivers-watchdog)
+* [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-ethernet)
+* [mbed-dsp](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-dsp)
 * [zephyr-synchronization](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-synchronization)

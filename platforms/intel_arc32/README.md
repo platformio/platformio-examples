@@ -8,6 +8,6 @@ ARC embedded processors are a family of 32-bit CPUs that are widely used in SoC 
 
 # Examples
 
-* [arduino-blink](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-blink)
 * [arduino-curie-imu](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-curie-imu)
+* [arduino-blink](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-blink)
 * [arduino-internal-libs](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-internal-libs)

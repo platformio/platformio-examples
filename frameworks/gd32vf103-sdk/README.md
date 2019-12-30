@@ -9,7 +9,7 @@ GigaDevice GD32VF103 Firmware Library (SDK)
 # Examples
 
 - [GigaDevice GD32V](https://github.com/sipeed/platform-gd32v)
-  * [arduino-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/arduino-blink)
   * [eval-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/eval-blink)
+  * [arduino-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/arduino-blink)
   * [longan-nano-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/longan-nano-blink)
 

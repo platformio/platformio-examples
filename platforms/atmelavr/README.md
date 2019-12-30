@@ -9,10 +9,10 @@ Atmel AVR 8-bit MCUs deliver a unique combination of performance, power efficien
 # Examples
 
 * [arduino-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-blink)
-* [arduino-external-libs](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-external-libs)
-* [arduino-internal-libs](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-internal-libs)
-* [arduino-own-src_dir](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-own-src_dir)
-* [digitstump-mouse](https://github.com/platformio/platform-atmelavr/tree/master/examples/digitstump-mouse)
-* [engduino-magnetometer](https://github.com/platformio/platform-atmelavr/tree/master/examples/engduino-magnetometer)
-* [native-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/native-blink)
 * [simba-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/simba-blink)
+* [native-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/native-blink)
+* [arduino-own-src_dir](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-own-src_dir)
+* [engduino-magnetometer](https://github.com/platformio/platform-atmelavr/tree/master/examples/engduino-magnetometer)
+* [digitstump-mouse](https://github.com/platformio/platform-atmelavr/tree/master/examples/digitstump-mouse)
+* [arduino-internal-libs](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-internal-libs)
+* [arduino-external-libs](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-external-libs)

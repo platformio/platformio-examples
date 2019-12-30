@@ -9,9 +9,9 @@ Silicon Labs EFM32 Gecko 32-bit microcontroller (MCU) family includes devices th
 # Examples
 
 * [mbed-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-blink)
-* [mbed-dsp](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-events)
+* [zephyr-subsys-console-getline](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-subsys-console-getline)
 * [mbed-serial](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-serial)
 * [zephyr-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-blink)
+* [mbed-events](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-events)
+* [mbed-dsp](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-dsp)
 * [zephyr-sensor-vl53l0x](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-sensor-vl53l0x)
-* [zephyr-subsys-console-getline](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-subsys-console-getline)

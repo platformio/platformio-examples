@@ -8,5 +8,5 @@ Linux ARM is a Unix-like and mostly POSIX-compliant computer operating system (O
 
 # Examples
 
-* [wiringpi-blink](https://github.com/platformio/platform-linux_arm/tree/master/examples/wiringpi-blink)
 * [wiringpi-serial](https://github.com/platformio/platform-linux_arm/tree/master/examples/wiringpi-serial)
+* [wiringpi-blink](https://github.com/platformio/platform-linux_arm/tree/master/examples/wiringpi-blink)

@@ -9,5 +9,5 @@ MSP430 microcontrollers (MCUs) from Texas Instruments (TI) are 16-bit, RISC-base
 # Examples
 
 * [arduino-blink](https://github.com/platformio/platform-timsp430/tree/master/examples/arduino-blink)
-* [arduino-internal-libs](https://github.com/platformio/platform-timsp430/tree/master/examples/arduino-internal-libs)
 * [native-blink](https://github.com/platformio/platform-timsp430/tree/master/examples/native-blink)
+* [arduino-internal-libs](https://github.com/platformio/platform-timsp430/tree/master/examples/arduino-internal-libs)

@@ -9,6 +9,6 @@ WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspb
 # Examples
 
 - [Linux ARM](https://github.com/platformio/platform-linux_arm)
-  * [wiringpi-blink](https://github.com/platformio/platform-linux_arm/tree/master/examples/wiringpi-blink)
   * [wiringpi-serial](https://github.com/platformio/platform-linux_arm/tree/master/examples/wiringpi-serial)
+  * [wiringpi-blink](https://github.com/platformio/platform-linux_arm/tree/master/examples/wiringpi-blink)
 

@@ -9,6 +9,6 @@
 # Examples
 
 * [arduino-blink](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/arduino-blink)
-* [arduino-external-libs](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/arduino-external-libs)
-* [arduino-internal-libs](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/arduino-internal-libs)
 * [native-blink](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/native-blink)
+* [arduino-internal-libs](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/arduino-internal-libs)
+* [arduino-external-libs](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples/arduino-external-libs)
