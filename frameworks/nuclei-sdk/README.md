@@ -1,5 +1,5 @@
 
-# Nuclei N/NX Embedded Software Development Kit: framework for [PlatformIO](https://platformio.org)
+# Nuclei SDK: framework for [PlatformIO](https://platformio.org)
 
 Open Source Software Development Kit for the Nuclei N/NX processors
 
