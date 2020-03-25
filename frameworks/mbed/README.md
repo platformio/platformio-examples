@@ -21,6 +21,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [arduino-external-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-external-libs)
   * [mbed-dsp](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-dsp)
   * [arduino-web-thing-led](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-web-thing-led)
+  * [arduino-briki-internal-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-briki-internal-libs)
 
 - [Freescale Kinetis](https://github.com/platformio/platform-freescalekinetis)
   * [mbed-blink](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-blink)

@@ -20,3 +20,4 @@ Atmel | SMART offers Flash- based ARM products based on the ARM Cortex-M0+, Cort
 * [arduino-external-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-external-libs)
 * [mbed-dsp](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-dsp)
 * [arduino-web-thing-led](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-web-thing-led)
+* [arduino-briki-internal-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-briki-internal-libs)

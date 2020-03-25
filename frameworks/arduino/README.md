@@ -37,6 +37,7 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [arduino-external-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-external-libs)
   * [mbed-dsp](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-dsp)
   * [arduino-web-thing-led](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-web-thing-led)
+  * [arduino-briki-internal-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-briki-internal-libs)
 
 - [Espressif 32](https://github.com/platformio/platform-espressif32)
   * [espidf-storage-sdcard](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-storage-sdcard)
