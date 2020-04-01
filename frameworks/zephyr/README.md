@@ -53,6 +53,7 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [zephyr-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-blink)
   * [mbed-rtos](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos)
   * [mbed-events](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-events)
+  * [zephyr-net-echo-client](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-net-echo-client)
   * [arduino-blink](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-blink)
   * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-ble-led)
   * [zephyr-ble-beacon](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-ble-beacon)
