@@ -8,9 +8,9 @@ The STM8 is an 8-bit microcontroller family by STMicroelectronics an extended va
 
 # Examples
 
-* [spl-blink](https://github.com/platformio/platform-ststm8/tree/master/examples/spl-blink)
 * [arduino-fade-all-pins](https://github.com/platformio/platform-ststm8/tree/master/examples/arduino-fade-all-pins)
-* [spl-uart](https://github.com/platformio/platform-ststm8/tree/master/examples/spl-uart)
-* [spl-flash](https://github.com/platformio/platform-ststm8/tree/master/examples/spl-flash)
 * [arduino-internal-lib](https://github.com/platformio/platform-ststm8/tree/master/examples/arduino-internal-lib)
 * [arduino-ping-hc04](https://github.com/platformio/platform-ststm8/tree/master/examples/arduino-ping-hc04)
+* [spl-blink](https://github.com/platformio/platform-ststm8/tree/master/examples/spl-blink)
+* [spl-flash](https://github.com/platformio/platform-ststm8/tree/master/examples/spl-flash)
+* [spl-uart](https://github.com/platformio/platform-ststm8/tree/master/examples/spl-uart)

@@ -8,5 +8,5 @@ The iCE40 family of ultra-low power, non-volatile FPGAs has five devices with de
 
 # Examples
 
-* [leds](https://github.com/platformio/platform-lattice_ice40/tree/master/examples/leds)
 * [counter](https://github.com/platformio/platform-lattice_ice40/tree/master/examples/counter)
+* [leds](https://github.com/platformio/platform-lattice_ice40/tree/master/examples/leds)

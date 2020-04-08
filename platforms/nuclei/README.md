@@ -8,12 +8,12 @@ Find professional RISC-V Processor IP in Nuclei, first professional RISC-V IP co
 
 # Examples
 
-* [freertos_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/freertos_demo)
-* [demo_dsp](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/demo_dsp)
-* [helloworld](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/helloworld)
-* [dhrystone](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/dhrystone)
-* [whetstone](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/whetstone)
-* [demo_eclic](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/demo_eclic)
-* [ucosii_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/ucosii_demo)
 * [coremark](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/coremark)
+* [demo_dsp](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/demo_dsp)
+* [demo_eclic](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/demo_eclic)
 * [demo_timer](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/demo_timer)
+* [dhrystone](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/dhrystone)
+* [freertos_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/freertos_demo)
+* [helloworld](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/helloworld)
+* [ucosii_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/ucosii_demo)
+* [whetstone](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/whetstone)

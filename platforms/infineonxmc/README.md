@@ -8,11 +8,11 @@ Infineon has designed the XMC microcontrollers for real-time critical applicatio
 
 # Examples
 
-* [ifx9201](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/ifx9201)
-* [device-control](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/device-control)
 * [arduino-blink](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/arduino-blink)
+* [arduino-wire](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/arduino-wire)
+* [device-control](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/device-control)
+* [ifx9201](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/ifx9201)
+* [radar](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/radar)
+* [rtc](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/rtc)
 * [spi](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/spi)
 * [ultrasonic](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/ultrasonic)
-* [rtc](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/rtc)
-* [radar](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/radar)
-* [arduino-wire](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/arduino-wire)

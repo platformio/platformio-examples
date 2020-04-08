@@ -9,11 +9,11 @@ The non-OS SDK provides a set of application programming interfaces (APIs) for c
 # Examples
 
 - [Espressif 8266](https://github.com/platformio/platform-espressif8266)
-  * [arduino-webserver](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-webserver)
   * [arduino-asyncudp](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-asyncudp)
   * [arduino-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-blink)
-  * [simba-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/simba-blink)
-  * [esp8266-rtos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-rtos-sdk-blink)
-  * [esp8266-nonos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-nonos-sdk-blink)
+  * [arduino-webserver](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-webserver)
   * [arduino-wifiscan](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-wifiscan)
+  * [esp8266-nonos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-nonos-sdk-blink)
+  * [esp8266-rtos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-rtos-sdk-blink)
+  * [simba-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/simba-blink)
 

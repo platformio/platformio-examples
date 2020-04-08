@@ -8,6 +8,6 @@ The GigaDevice GD32V device is a 32-bit general-purpose microcontroller based on
 
 # Examples
 
-* [eval-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/eval-blink)
 * [arduino-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/arduino-blink)
+* [eval-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/eval-blink)
 * [longan-nano-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/longan-nano-blink)

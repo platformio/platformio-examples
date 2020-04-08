@@ -8,13 +8,13 @@ The Nordic nRF51 Series is a family of highly flexible, multi-protocol, system-o
 
 # Examples
 
-* [mbed-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-blink)
-* [mbed-serial](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-serial)
-* [zephyr-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-blink)
-* [mbed-events](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-events)
-* [arduino-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-blink)
 * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-ble-led)
-* [zephyr-ble-eddystone](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-ble-eddystone)
+* [arduino-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-blink)
 * [arduino-internal-libs](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-internal-libs)
-* [zephyr-drivers-entropy](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-drivers-entropy)
 * [mbed-ble-thermometer](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-ble-thermometer)
+* [mbed-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-blink)
+* [mbed-events](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-events)
+* [mbed-serial](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-serial)
+* [zephyr-ble-eddystone](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-ble-eddystone)
+* [zephyr-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-blink)
+* [zephyr-drivers-entropy](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-drivers-entropy)
