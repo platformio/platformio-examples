@@ -65,6 +65,12 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [zephyr-net-echo-client](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-net-echo-client)
   * [zephyr-subsys-nvs](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-subsys-nvs)
 
+- [NXP i.MX RT](https://github.com/platformio/platform-nxpimxrt)
+  * [mbed-blink](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/mbed-blink)
+  * [mbed-rtos-ethernet](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/mbed-rtos-ethernet)
+  * [zephyr-blink](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/zephyr-blink)
+  * [zephyr-synchronization](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/zephyr-synchronization)
+
 - [NXP LPC](https://github.com/platformio/platform-nxplpc)
   * [mbed-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-blink)
   * [mbed-custom-target](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-custom-target)

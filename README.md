@@ -27,6 +27,7 @@
 * [Nordic nRF51](https://github.com/platformio/platform-nordicnrf51/tree/master/examples)
 * [Nordic nRF52](https://github.com/platformio/platform-nordicnrf52/tree/master/examples)
 * [Nuclei](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples)
+* [NXP i.MX RT](https://github.com/platformio/platform-nxpimxrt/tree/master/examples)
 * [NXP LPC](https://github.com/platformio/platform-nxplpc/tree/master/examples)
 * [RISC-V GAP](https://github.com/pioplus/platform-riscv_gap/tree/master/examples)
 * [Shakti](https://github.com/platformio/platform-shakti/tree/master/examples)
