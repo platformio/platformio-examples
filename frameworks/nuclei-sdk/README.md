@@ -16,6 +16,7 @@ Open Source Software Development Kit for the Nuclei N/NX processors
   * [dhrystone](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/dhrystone)
   * [freertos_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/freertos_demo)
   * [helloworld](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/helloworld)
+  * [rtthread_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/rtthread_demo)
   * [ucosii_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/ucosii_demo)
   * [whetstone](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/whetstone)
 
