@@ -84,6 +84,9 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [zephyr-synchronization](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-synchronization)
 
 - [SiFive](https://github.com/platformio/platform-sifive)
+  * [freedom-e-sdk_freertos-blinky](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_freertos-blinky)
+  * [freedom-e-sdk_freertos-blinky-system-view](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_freertos-blinky-system-view)
+  * [freedom-e-sdk_freertos-pmp-blinky](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_freertos-pmp-blinky)
   * [freedom-e-sdk_hello](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_hello)
   * [freedom-e-sdk_multicore-hello](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_multicore-hello)
   * [freedom-e-sdk_sifive-welcome](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_sifive-welcome)

@@ -57,6 +57,7 @@
 * [ESP8266 Non-OS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-nonos-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [ESP8266 RTOS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-rtos-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [Freedom E SDK](https://docs.platformio.org/en/latest/frameworks/freedom-e-sdk.html?utm_source=github&utm_medium=examples#examples)
+* [FreeRTOS](https://docs.platformio.org/en/latest/frameworks/freertos.html?utm_source=github&utm_medium=examples#examples)
 * [GigaDevice GD32V SDK](https://docs.platformio.org/en/latest/frameworks/gd32vf103-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [Kendryte Standalone SDK](https://docs.platformio.org/en/latest/frameworks/kendryte-standalone-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [Kendryte FreeRTOS SDK](https://docs.platformio.org/en/latest/frameworks/kendryte-freertos-sdk.html?utm_source=github&utm_medium=examples#examples)

@@ -1,10 +1,10 @@
 
-# Freedom E SDK: framework for [PlatformIO](https://platformio.org)
+# FreeRTOS: framework for [PlatformIO](https://platformio.org)
 
-Open Source Software for Developing on the SiFive Freedom E Platform
+FreeRTOS is a real-time operating system kernel for embedded devices that has been ported to 40 microcontroller platforms
 
-* [Home](https://platformio.org/frameworks/freedom-e-sdk) (home page in PlatformIO Registry)
-* [Documentation](https://docs.platformio.org/page/frameworks/freedom-e-sdk.html)
+* [Home](https://platformio.org/frameworks/freertos) (home page in PlatformIO Registry)
+* [Documentation](https://docs.platformio.org/page/frameworks/freertos.html)
 
 # Examples
 

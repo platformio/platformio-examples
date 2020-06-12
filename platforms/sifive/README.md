@@ -8,6 +8,9 @@ SiFive brings the power of open source and software automation to the semiconduc
 
 # Examples
 
+* [freedom-e-sdk_freertos-blinky](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_freertos-blinky)
+* [freedom-e-sdk_freertos-blinky-system-view](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_freertos-blinky-system-view)
+* [freedom-e-sdk_freertos-pmp-blinky](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_freertos-pmp-blinky)
 * [freedom-e-sdk_hello](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_hello)
 * [freedom-e-sdk_multicore-hello](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_multicore-hello)
 * [freedom-e-sdk_sifive-welcome](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_sifive-welcome)
