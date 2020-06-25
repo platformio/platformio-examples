@@ -30,7 +30,7 @@
 * [Nuclei](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples)
 * [NXP i.MX RT](https://github.com/platformio/platform-nxpimxrt/tree/master/examples)
 * [NXP LPC](https://github.com/platformio/platform-nxplpc/tree/master/examples)
-* [RISC-V GAP](https://github.com/pioplus/platform-riscv_gap/tree/master/examples)
+* [RISC-V GAP](https://github.com/platformio/platform-riscv_gap/tree/master/examples)
 * [Shakti](https://github.com/platformio/platform-shakti/tree/master/examples)
 * [SiFive](https://github.com/platformio/platform-sifive/tree/master/examples)
 * [Silicon Labs EFM32](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples)

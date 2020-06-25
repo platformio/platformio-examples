@@ -8,8 +8,8 @@ ASR Microelectronics ASR605x series is highly intergrated and ultra low power SO
 
 # Examples
 
+* [LoRa](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/LoRa)
 * [arduino-adc](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-adc)
 * [arduino-blink](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-blink)
-* [arduino-lorawan](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-lorawan)
 * [arduino-lowpower](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-lowpower)
 * [arduino-rgb](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-rgb)
