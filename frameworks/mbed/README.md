@@ -1,7 +1,7 @@
 
 # Mbed: framework for [PlatformIO](https://platformio.org)
 
-The mbed framework The mbed SDK has been designed to provide enough hardware abstraction to be intuitive and concise, yet powerful enough to build complex projects. It is built on the low-level ARM CMSIS APIs, allowing you to code down to the metal if needed. In addition to RTOS, USB and Networking libraries, a cookbook of hundreds of reusable peripheral and module libraries have been built on top of the SDK by the mbed Developer Community.
+Arm Mbed OS is an open source embedded operating system designed specifically for the 'things' in the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices
 
 * [Home](https://platformio.org/frameworks/mbed) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/mbed.html)
@@ -20,7 +20,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-serial](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-serial)
   * [simba-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/simba-blink)
   * [zephyr-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
-  * [zephyr-drivers-i2c-scanner](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-i2c-scanner)
+  * [zephyr-drivers-lcd-hd44780](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-lcd-hd44780)
   * [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
 
 - [Freescale Kinetis](https://github.com/platformio/platform-freescalekinetis)
@@ -87,7 +87,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-ethernet)
   * [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-serial)
   * [zephyr-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-blink)
-  * [zephyr-drivers-watchdog](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-drivers-watchdog)
+  * [zephyr-custom-board](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-custom-board)
   * [zephyr-synchronization](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-synchronization)
 
 - [RISC-V GAP](https://github.com/platformio/platform-riscv_gap)
@@ -115,6 +115,7 @@ The mbed framework The mbed SDK has been designed to provide enough hardware abs
   * [mbed-events](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-events)
   * [mbed-serial](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-serial)
   * [zephyr-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-blink)
+  * [zephyr-custom-module](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-custom-module)
   * [zephyr-sensor-vl53l0x](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-sensor-vl53l0x)
   * [zephyr-subsys-console-getline](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-subsys-console-getline)
 

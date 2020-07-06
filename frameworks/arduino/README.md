@@ -1,7 +1,7 @@
 
 # Arduino: framework for [PlatformIO](https://platformio.org)
 
-Arduino Wiring-based Framework allows writing cross-platform software to control devices attached to a wide range of Arduino boards to create all kinds of creative coding, interactive objects, spaces or physical experiences.
+Arduino Wiring-based Framework allows writing cross-platform software to control devices attached to a wide range of Arduino boards to create all kinds of creative coding, interactive objects, spaces or physical experiences
 
 * [Home](https://platformio.org/frameworks/arduino) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/arduino.html)
@@ -43,7 +43,7 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [mbed-serial](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-serial)
   * [simba-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/simba-blink)
   * [zephyr-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
-  * [zephyr-drivers-i2c-scanner](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-i2c-scanner)
+  * [zephyr-drivers-lcd-hd44780](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-lcd-hd44780)
   * [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
 
 - [Espressif 32](https://github.com/platformio/platform-espressif32)

@@ -1,7 +1,7 @@
 
-# Zephyr: framework for [PlatformIO](https://platformio.org)
+# Zephyr RTOS: framework for [PlatformIO](https://platformio.org)
 
-The Zephyr Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with safety and security in mind.
+The Zephyr Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with safety and security in mind
 
 * [Home](https://platformio.org/frameworks/zephyr) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/zephyr.html)
@@ -20,7 +20,7 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [mbed-serial](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-serial)
   * [simba-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/simba-blink)
   * [zephyr-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
-  * [zephyr-drivers-i2c-scanner](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-i2c-scanner)
+  * [zephyr-drivers-lcd-hd44780](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-lcd-hd44780)
   * [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
 
 - [Freescale Kinetis](https://github.com/platformio/platform-freescalekinetis)
@@ -80,7 +80,7 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-ethernet)
   * [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-serial)
   * [zephyr-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-blink)
-  * [zephyr-drivers-watchdog](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-drivers-watchdog)
+  * [zephyr-custom-board](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-custom-board)
   * [zephyr-synchronization](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-synchronization)
 
 - [SiFive](https://github.com/platformio/platform-sifive)
@@ -106,6 +106,7 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [mbed-events](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-events)
   * [mbed-serial](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-serial)
   * [zephyr-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-blink)
+  * [zephyr-custom-module](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-custom-module)
   * [zephyr-sensor-vl53l0x](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-sensor-vl53l0x)
   * [zephyr-subsys-console-getline](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-subsys-console-getline)
 

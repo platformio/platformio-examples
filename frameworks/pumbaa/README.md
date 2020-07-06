@@ -1,7 +1,7 @@
 
 # Pumbaa: framework for [PlatformIO](https://platformio.org)
 
-Pumbaa is Python on top of Simba. The implementation is a port of MicroPython, designed for embedded devices with limited amount of RAM and code memory.
+Pumbaa is Python on top of Simba. The implementation is a port of MicroPython, designed for embedded devices with limited amount of RAM and code memory
 
 * [Home](https://platformio.org/frameworks/pumbaa) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/pumbaa.html)

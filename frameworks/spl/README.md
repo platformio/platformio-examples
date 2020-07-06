@@ -1,7 +1,7 @@
 
-# SPL: framework for [PlatformIO](https://platformio.org)
+# Standard Peripheral Library: framework for [PlatformIO](https://platformio.org)
 
-The ST Standard Peripheral Library provides a set of functions for handling the peripherals on the STM32 Cortex-M3 family. The idea is to save the user (the new user, in particular) having to deal directly with the registers.
+The ST Standard Peripheral Library provides a set of functions for handling the peripherals on the STM32 family of microcontrollers.
 
 * [Home](https://platformio.org/frameworks/spl) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/spl.html)

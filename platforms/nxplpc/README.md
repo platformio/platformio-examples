@@ -16,5 +16,5 @@ The NXP LPC is a family of 32-bit microcontroller integrated circuits by NXP Sem
 * [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-ethernet)
 * [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-serial)
 * [zephyr-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-blink)
-* [zephyr-drivers-watchdog](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-drivers-watchdog)
+* [zephyr-custom-board](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-custom-board)
 * [zephyr-synchronization](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-synchronization)

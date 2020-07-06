@@ -1,7 +1,7 @@
 
 # PULP OS: framework for [PlatformIO](https://platformio.org)
 
-PULP is a silicon-proven Parallel Ultra Low Power platform targeting high energy efficiencies. The platform is organized in clusters of RISC-V cores that share a tightly-coupled data memory.
+PULP is a silicon-proven Parallel Ultra Low Power platform targeting high energy efficiencies. The platform is organized in clusters of RISC-V cores that share a tightly-coupled data memory
 
 * [Home](https://platformio.org/frameworks/pulp-os) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/pulp-os.html)

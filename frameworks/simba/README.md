@@ -1,7 +1,7 @@
 
 # Simba: framework for [PlatformIO](https://platformio.org)
 
-Simba is an RTOS and build framework. It aims to make embedded programming easy and portable.
+Simba is an RTOS and build framework with aims to make embedded programming easy and portable
 
 * [Home](https://platformio.org/frameworks/simba) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/simba.html)
@@ -30,7 +30,7 @@ Simba is an RTOS and build framework. It aims to make embedded programming easy 
   * [mbed-serial](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-serial)
   * [simba-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/simba-blink)
   * [zephyr-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
-  * [zephyr-drivers-i2c-scanner](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-i2c-scanner)
+  * [zephyr-drivers-lcd-hd44780](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-lcd-hd44780)
   * [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
 
 - [Espressif 32](https://github.com/platformio/platform-espressif32)

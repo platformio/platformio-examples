@@ -1,7 +1,7 @@
 
 # STM32Cube: framework for [PlatformIO](https://platformio.org)
 
-STM32Cube embedded software libraries, including: The HAL hardware abstraction layer, enabling portability between different STM32 devices via standardized API calls; The Low-Layer (LL) APIs, a light-weight, optimized, expert oriented set of APIs designed for both performance and runtime efficiency.
+STM32Cube embedded software libraries, including: The HAL hardware abstraction layer, enabling portability between different STM32 devices via standardized API calls; The Low-Layer (LL) APIs, a light-weight, optimized, expert oriented set of APIs designed for both performance and runtime efficiency
 
 * [Home](https://platformio.org/frameworks/stm32cube) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/stm32cube.html)
