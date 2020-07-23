@@ -8,13 +8,12 @@ Freescale Kinetis Microcontrollers is family of multiple hardware- and software-
 
 # Examples
 
-* [mbed-blink](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-blink)
-* [mbed-dsp](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-events)
-* [mbed-rtos](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos)
-* [mbed-rtos-ethernet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-ethernet)
-* [mbed-rtos-tls-client](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-tls-client)
-* [mbed-serial](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-serial)
+* [mbed-legacy-examples](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-legacy-examples)
+* [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-blink-baremetal)
+* [mbed-rtos-ethernet-tls](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-ethernet-tls)
+* [mbed-rtos-kvstore](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-kvstore)
+* [mbed-rtos-psa](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-psa)
+* [mbed-rtos-usb-msd](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-usb-msd)
 * [zephyr-blink](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-blink)
 * [zephyr-net-telnet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-net-telnet)
 * [zephyr-sensor-sx9500](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-sensor-sx9500)

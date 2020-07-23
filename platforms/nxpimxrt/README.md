@@ -8,7 +8,8 @@ The i.MX RT series of crossover processors features the Arm Cortex-M core, real-
 
 # Examples
 
-* [mbed-blink](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/mbed-blink)
-* [mbed-rtos-ethernet](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/mbed-rtos-ethernet)
+* [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/mbed-rtos-blink-baremetal)
+* [mbed-rtos-cellular](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/mbed-rtos-cellular)
+* [mbed-rtos-ethernet-tls](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/mbed-rtos-ethernet-tls)
 * [zephyr-blink](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/zephyr-blink)
 * [zephyr-synchronization](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/zephyr-synchronization)

@@ -8,10 +8,10 @@ Silicon Labs EFM32 Gecko 32-bit microcontroller (MCU) family includes devices th
 
 # Examples
 
-* [mbed-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-blink)
-* [mbed-dsp](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-events)
-* [mbed-serial](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-serial)
+* [mbed-legacy-examples](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-legacy-examples)
+* [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-blink-baremetal)
+* [mbed-rtos-semaphore](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-semaphore)
+* [mbed-rtos-usb-cdc](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-usb-cdc)
 * [zephyr-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-blink)
 * [zephyr-custom-module](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-custom-module)
 * [zephyr-sensor-vl53l0x](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-sensor-vl53l0x)

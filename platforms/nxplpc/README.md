@@ -8,13 +8,10 @@ The NXP LPC is a family of 32-bit microcontroller integrated circuits by NXP Sem
 
 # Examples
 
-* [mbed-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-blink)
-* [mbed-custom-target](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-custom-target)
-* [mbed-dsp](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-dsp)
-* [mbed-events](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-events)
-* [mbed-rtos](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos)
-* [mbed-rtos-ethernet](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-ethernet)
-* [mbed-serial](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-serial)
+* [mbed-legacy-examples](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-legacy-examples)
+* [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-blink-baremetal)
+* [mbed-rtos-blockdevice](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-blockdevice)
+* [mbed-rtos-thread-statistics](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-thread-statistics)
 * [zephyr-blink](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-blink)
 * [zephyr-custom-board](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-custom-board)
 * [zephyr-synchronization](https://github.com/platformio/platform-nxplpc/tree/master/examples/zephyr-synchronization)
