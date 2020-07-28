@@ -28,17 +28,17 @@ DigitalOut myled(LED1);
 // }
 
 void test_pin_is_connected(void) {
-    TEST_ASSERT_EQUAL(myled.is_connected(), 1);
+    TEST_ASSERT_EQUAL(1, myled.is_connected());
 }
 
 void test_led_state_high(void) {
     myled.write(1);
-    TEST_ASSERT_EQUAL(myled.read(), 1);
+    TEST_ASSERT_EQUAL(1, myled.read());
 }
 
 void test_led_state_low(void) {
     myled.write(0);
-    TEST_ASSERT_EQUAL(myled.read(), 0);
+    TEST_ASSERT_EQUAL(0, myled.read());
 }
 
 int main() {
@@ -47,9 +47,9 @@ int main() {
 
     for (int i = 0; i < 5; ++i){
         RUN_TEST(test_led_state_high);
-        wait_ms(500);
+        thread_sleep_for(500);
         RUN_TEST(test_led_state_low);
-        wait_ms(500);
+        thread_sleep_for(500);
         i++;
     }
 
