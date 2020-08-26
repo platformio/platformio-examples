@@ -115,6 +115,7 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [cmsis-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/cmsis-blink)
   * [libopencm3-1bitsy](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-1bitsy)
   * [libopencm3-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-blink)
+  * [libopencm3-usb-cdcacm](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-usb-cdcacm)
   * [mbed-legacy-examples](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-legacy-examples)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-blink-baremetal)
   * [mbed-rtos-custom-target](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-custom-target)

@@ -19,6 +19,7 @@ The libOpenCM3 framework aims to create a free and open-source firmware library 
   * [cmsis-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/cmsis-blink)
   * [libopencm3-1bitsy](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-1bitsy)
   * [libopencm3-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-blink)
+  * [libopencm3-usb-cdcacm](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-usb-cdcacm)
   * [mbed-legacy-examples](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-legacy-examples)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-blink-baremetal)
   * [mbed-rtos-custom-target](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-custom-target)
@@ -42,5 +43,6 @@ The libOpenCM3 framework aims to create a free and open-source firmware library 
   * [arduino-blink](https://github.com/platformio/platform-titiva/tree/master/examples/arduino-blink)
   * [arduino-internal-libs](https://github.com/platformio/platform-titiva/tree/master/examples/arduino-internal-libs)
   * [libopencm3-blink](https://github.com/platformio/platform-titiva/tree/master/examples/libopencm3-blink)
+  * [libopencm3-usb-cdcacm](https://github.com/platformio/platform-titiva/tree/master/examples/libopencm3-usb-cdcacm)
   * [native-blink](https://github.com/platformio/platform-titiva/tree/master/examples/native-blink)
 

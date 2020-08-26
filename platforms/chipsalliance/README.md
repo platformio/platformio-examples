@@ -8,5 +8,8 @@ The CHIPS Alliance develops high-quality, open source hardware designs relevant 
 
 # Examples
 
+* [native-asm](https://github.com/platformio/platform-chipsalliance/tree/master/examples/native-asm)
+* [native-bare_c](https://github.com/platformio/platform-chipsalliance/tree/master/examples/native-bare_c)
 * [native-blink_asm](https://github.com/platformio/platform-chipsalliance/tree/master/examples/native-blink_asm)
+* [psp-hello-world](https://github.com/platformio/platform-chipsalliance/tree/master/examples/psp-hello-world)
 * [rtosal-freertos](https://github.com/platformio/platform-chipsalliance/tree/master/examples/rtosal-freertos)
