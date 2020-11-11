@@ -12,4 +12,5 @@ A software development kit for developing applications on Shakti class of proces
   * [shakti-sdk_gpio-keypad](https://github.com/platformio/platform-shakti/tree/master/examples/shakti-sdk_gpio-keypad)
   * [shakti-sdk_i2c-lm75](https://github.com/platformio/platform-shakti/tree/master/examples/shakti-sdk_i2c-lm75)
   * [shakti-sdk_uart-hello](https://github.com/platformio/platform-shakti/tree/master/examples/shakti-sdk_uart-hello)
+  * [shakti-sdk_weatherstation](https://github.com/platformio/platform-shakti/tree/master/examples/shakti-sdk_weatherstation)
 

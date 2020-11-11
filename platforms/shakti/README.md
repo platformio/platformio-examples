@@ -11,3 +11,4 @@ Shakti is an open-source initiative by the RISE group at IIT-Madras, which is no
 * [shakti-sdk_gpio-keypad](https://github.com/platformio/platform-shakti/tree/master/examples/shakti-sdk_gpio-keypad)
 * [shakti-sdk_i2c-lm75](https://github.com/platformio/platform-shakti/tree/master/examples/shakti-sdk_i2c-lm75)
 * [shakti-sdk_uart-hello](https://github.com/platformio/platform-shakti/tree/master/examples/shakti-sdk_uart-hello)
+* [shakti-sdk_weatherstation](https://github.com/platformio/platform-shakti/tree/master/examples/shakti-sdk_weatherstation)
