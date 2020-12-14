@@ -1,0 +1,53 @@
+name: cicd project
+on: [push]
+
+jobs:
+  build-and-tests:
+    name: Build & Tests
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.7' 
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -U https://github.com/platformio/platformio-core/archive/v5.0.1.zip
+
+    - name: Run Unit Tests
+      run: platformio test --environment native -f unit -v
+    
+    - name: Run Integration Tests
+      run: platformio remote test --environment uno --ignore unit
+      env: 
+        PLATFORMIO_AUTH_TOKEN: ${{ secrets.platformioAgent }}
+
+  deploy-firmware:
+    name: Deploy firmware
+    needs: build-and-tests
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.7' 
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -U https://github.com/platformio/platformio-core/archive/v5.0.1.zip
+    
+    - name: Deploy firmware
+      run: platformio remote run --environment uno --target upload
+      env: 
+        PLATFORMIO_AUTH_TOKEN: ${{ secrets.platformioAgent }}
