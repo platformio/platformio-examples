@@ -14,6 +14,7 @@ FreeRTOS is a real-time operating system kernel for embedded devices that has be
   * [native-blink_asm](https://github.com/platformio/platform-chipsalliance/tree/master/examples/native-blink_asm)
   * [psp-hello-world](https://github.com/platformio/platform-chipsalliance/tree/master/examples/psp-hello-world)
   * [rtosal-freertos](https://github.com/platformio/platform-chipsalliance/tree/master/examples/rtosal-freertos)
+  * [zephyr-hello-world](https://github.com/platformio/platform-chipsalliance/tree/master/examples/zephyr-hello-world)
 
 - [SiFive](https://github.com/platformio/platform-sifive)
   * [freedom-e-sdk_freertos-blinky](https://github.com/platformio/platform-sifive/tree/master/examples/freedom-e-sdk_freertos-blinky)

@@ -23,6 +23,14 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [zephyr-drivers-lcd-hd44780](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-lcd-hd44780)
   * [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
 
+- [CHIPS Alliance](https://github.com/platformio/platform-chipsalliance)
+  * [native-asm](https://github.com/platformio/platform-chipsalliance/tree/master/examples/native-asm)
+  * [native-bare_c](https://github.com/platformio/platform-chipsalliance/tree/master/examples/native-bare_c)
+  * [native-blink_asm](https://github.com/platformio/platform-chipsalliance/tree/master/examples/native-blink_asm)
+  * [psp-hello-world](https://github.com/platformio/platform-chipsalliance/tree/master/examples/psp-hello-world)
+  * [rtosal-freertos](https://github.com/platformio/platform-chipsalliance/tree/master/examples/rtosal-freertos)
+  * [zephyr-hello-world](https://github.com/platformio/platform-chipsalliance/tree/master/examples/zephyr-hello-world)
+
 - [Freescale Kinetis](https://github.com/platformio/platform-freescalekinetis)
   * [mbed-legacy-examples](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-legacy-examples)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-blink-baremetal)

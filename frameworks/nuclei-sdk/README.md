@@ -12,11 +12,13 @@ Open Source Software Development Kit for the Nuclei N/NX processors
   * [coremark](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/coremark)
   * [demo_dsp](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/demo_dsp)
   * [demo_eclic](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/demo_eclic)
+  * [demo_nice](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/demo_nice)
   * [demo_timer](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/demo_timer)
   * [dhrystone](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/dhrystone)
   * [freertos_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/freertos_demo)
   * [helloworld](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/helloworld)
   * [rtthread_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/rtthread_demo)
+  * [rtthread_msh](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/rtthread_msh)
   * [ucosii_demo](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/ucosii_demo)
   * [whetstone](https://github.com/Nuclei-Software/platform-nuclei/tree/master/examples/whetstone)
 
