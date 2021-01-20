@@ -10,7 +10,7 @@
 ### Embedded
 
 * [Aceinna IMU](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples)
-* [ASR Microelectronics ASR605x](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples)
+* [ASR Microelectronics ASR650x](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples)
 * [Atmel AVR](https://github.com/platformio/platform-atmelavr/tree/master/examples)
 * [Atmel megaAVR](https://github.com/platformio/platform-atmelmegaavr/tree/master/examples)
 * [Atmel SAM](https://github.com/platformio/platform-atmelsam/tree/master/examples)

@@ -37,7 +37,6 @@ The STM32 family of 32-bit Flash MCUs based on the ARM Cortex-M processor is des
 * [stm32cube-hal-iap](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-iap)
 * [stm32cube-hal-lcd](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-lcd)
 * [stm32cube-hal-usb-device-dfu](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-usb-device-dfu)
-* [stm32cube-hal-usb-host-hid](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-usb-host-hid)
 * [stm32cube-hal-wifi-client](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-wifi-client)
 * [stm32cube-ll-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-ll-blink)
 * [zephyr-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-blink)

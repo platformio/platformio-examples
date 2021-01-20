@@ -8,7 +8,7 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
 
 # Examples
 
-- [ASR Microelectronics ASR605x](https://github.com/HelTecAutomation/platform-asrmicro650x)
+- [ASR Microelectronics ASR650x](https://github.com/HelTecAutomation/platform-asrmicro650x)
   * [LoRa](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/LoRa)
   * [arduino-adc](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-adc)
   * [arduino-blink](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-blink)
@@ -161,7 +161,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [stm32cube-hal-iap](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-iap)
   * [stm32cube-hal-lcd](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-lcd)
   * [stm32cube-hal-usb-device-dfu](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-usb-device-dfu)
-  * [stm32cube-hal-usb-host-hid](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-usb-host-hid)
   * [stm32cube-hal-wifi-client](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-wifi-client)
   * [stm32cube-ll-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-ll-blink)
   * [zephyr-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-blink)
