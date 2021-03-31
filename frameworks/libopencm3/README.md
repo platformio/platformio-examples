@@ -12,6 +12,8 @@ The libOpenCM3 framework aims to create a free and open-source firmware library 
   * [arduino-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-blink)
   * [arduino-external-libs](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-external-libs)
   * [arduino-internal-libs](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-internal-libs)
+  * [arduino-mbed-doom](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-mbed-doom)
+  * [arduino-mbed-rpc](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-mbed-rpc)
   * [arduino-mxchip-azureiot](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-mxchip-azureiot)
   * [arduino-mxchip-filesystem](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-mxchip-filesystem)
   * [arduino-mxchip-sensors](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-mxchip-sensors)
