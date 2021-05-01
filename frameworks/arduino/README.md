@@ -133,6 +133,10 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [zephyr-net-echo-client](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-net-echo-client)
   * [zephyr-subsys-nvs](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-subsys-nvs)
 
+- [Raspberry Pi RP2040](https://github.com/platformio/platform-raspberrypi)
+  * [arduino-blink](https://github.com/platformio/platform-raspberrypi/tree/master/examples/arduino-blink)
+  * [arduino-external-libs](https://github.com/platformio/platform-raspberrypi/tree/master/examples/arduino-external-libs)
+
 - [ST STM32](https://github.com/platformio/platform-ststm32)
   * [arduino-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-blink)
   * [arduino-external-libs](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-external-libs)
