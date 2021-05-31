@@ -34,7 +34,6 @@ The ST Standard Peripheral Library provides a set of functions for handling the 
   * [mbed-rtos-wifi](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-wifi)
   * [spl-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/spl-blink)
   * [stm32cube-hal-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-blink)
-  * [stm32cube-hal-blink-clangd](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-blink-clangd)
   * [stm32cube-hal-eeprom-emulation](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-eeprom-emulation)
   * [stm32cube-hal-extmem-boot](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-extmem-boot)
   * [stm32cube-hal-iap](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-iap)
