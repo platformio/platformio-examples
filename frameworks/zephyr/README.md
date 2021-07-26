@@ -40,7 +40,6 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [mbed-rtos-usb-msd](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-usb-msd)
   * [zephyr-blink](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-blink)
   * [zephyr-net-telnet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-net-telnet)
-  * [zephyr-sensor-sx9500](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-sensor-sx9500)
 
 - [Nordic nRF51](https://github.com/platformio/platform-nordicnrf51)
   * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-ble-led)
@@ -109,7 +108,6 @@ The Zephyr Project is a scalable real-time operating system (RTOS) supporting mu
   * [mbed-rtos-usb-cdc](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-usb-cdc)
   * [zephyr-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-blink)
   * [zephyr-custom-module](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-custom-module)
-  * [zephyr-sensor-vl53l0x](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-sensor-vl53l0x)
   * [zephyr-subsys-console-getline](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-subsys-console-getline)
 
 - [ST STM32](https://github.com/platformio/platform-ststm32)

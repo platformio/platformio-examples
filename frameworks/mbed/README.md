@@ -32,7 +32,6 @@ Arm Mbed OS is an open source embedded operating system designed specifically fo
   * [mbed-rtos-usb-msd](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-usb-msd)
   * [zephyr-blink](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-blink)
   * [zephyr-net-telnet](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-net-telnet)
-  * [zephyr-sensor-sx9500](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/zephyr-sensor-sx9500)
 
 - [Maxim 32](https://github.com/platformio/platform-maxim32)
   * [mbed-legacy-examples](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-legacy-examples)
@@ -109,7 +108,6 @@ Arm Mbed OS is an open source embedded operating system designed specifically fo
   * [mbed-rtos-usb-cdc](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-usb-cdc)
   * [zephyr-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-blink)
   * [zephyr-custom-module](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-custom-module)
-  * [zephyr-sensor-vl53l0x](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-sensor-vl53l0x)
   * [zephyr-subsys-console-getline](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-subsys-console-getline)
 
 - [ST STM32](https://github.com/platformio/platform-ststm32)

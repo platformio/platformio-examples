@@ -11,4 +11,5 @@ Open-source, embedded development platform for Aceinna IMU hardware. Run custom 
 * [OpenIMU300RI](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/OpenIMU300RI)
 * [OpenIMU300ZI](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/OpenIMU300ZI)
 * [OpenIMU330BI](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/OpenIMU330BI)
+* [OpenIMU335RI](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/OpenIMU335RI)
 * [OpenRTK330LI](https://github.com/aceinna/platform-aceinna_imu/tree/master/examples/OpenRTK330LI)
