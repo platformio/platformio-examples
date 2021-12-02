@@ -13,4 +13,3 @@ The CHIPS Alliance develops high-quality, open source hardware designs relevant 
 * [native-blink_asm](https://github.com/platformio/platform-chipsalliance/tree/master/examples/native-blink_asm)
 * [psp-hello-world](https://github.com/platformio/platform-chipsalliance/tree/master/examples/psp-hello-world)
 * [rtosal-freertos](https://github.com/platformio/platform-chipsalliance/tree/master/examples/rtosal-freertos)
-* [zephyr-hello-world](https://github.com/platformio/platform-chipsalliance/tree/master/examples/zephyr-hello-world)
