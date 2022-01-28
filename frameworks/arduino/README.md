@@ -195,6 +195,8 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [mbed-dsp](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-dsp)
   * [mbed-events](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-events)
   * [mbed-serial](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-serial)
+  * [zephyr-blink](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-blink)
+  * [zephyr-synchronization](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-synchronization)
 
 - [TI MSP430](https://github.com/platformio/platform-timsp430)
   * [arduino-blink](https://github.com/platformio/platform-timsp430/tree/master/examples/arduino-blink)

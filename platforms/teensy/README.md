@@ -15,3 +15,5 @@ Teensy is a complete USB-based microcontroller development system, in a very sma
 * [mbed-dsp](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-dsp)
 * [mbed-events](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-events)
 * [mbed-serial](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-serial)
+* [zephyr-blink](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-blink)
+* [zephyr-synchronization](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-synchronization)
