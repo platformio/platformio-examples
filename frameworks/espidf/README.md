@@ -9,8 +9,10 @@ ESP-IDF is the official development framework for the ESP32 and ESP32-S Series S
 # Examples
 
 - [Espressif 32](https://github.com/platformio/platform-espressif32)
+  * [arduino-ble5-advertising](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-ble5-advertising)
   * [arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-blink)
   * [arduino-briki-internal-libs](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-briki-internal-libs)
+  * [arduino-usb-keyboard](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-usb-keyboard)
   * [arduino-wifiscan](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-wifiscan)
   * [espidf-arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-arduino-blink)
   * [espidf-arduino-wifiscan](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-arduino-wifiscan)
@@ -27,6 +29,4 @@ ESP-IDF is the official development framework for the ESP32 and ESP32-S Series S
   * [espidf-storage-spiffs](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-storage-spiffs)
   * [espidf-ulp-adc](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-ulp-adc)
   * [espidf-ulp-pulse](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-ulp-pulse)
-  * [pumbaa-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/pumbaa-blink)
-  * [simba-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/simba-blink)
 
