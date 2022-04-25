@@ -19,13 +19,13 @@
 
 Calculator calc;
 
-// void setUp(void) {
-// // set stuff up here
-// }
+void setUp(void) {
+    // set stuff up here
+}
 
-// void tearDown(void) {
-// // clean stuff up here
-// }
+void tearDown(void) {
+    // clean stuff up here
+}
 
 void test_calculator_addition(void) {
     TEST_ASSERT_EQUAL(32, calc.add(25, 7));

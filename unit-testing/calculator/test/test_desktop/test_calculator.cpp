@@ -20,11 +20,11 @@
 Calculator calc;
 
 void setUp(void) {
-// set stuff up here
+    // set stuff up here
 }
 
 void tearDown(void) {
-// clean stuff up here
+    // clean stuff up here
 }
 
 void test_calculator_addition(void) {

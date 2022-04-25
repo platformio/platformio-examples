@@ -10,6 +10,10 @@ void setUp(void)
     ArduinoFakeReset();
 }
 
+void tearDown(void) {
+    // clean stuff up here
+}
+
 void test_request(void)
 {
     When(Method(ArduinoFake(Client), stop)).AlwaysReturn();
