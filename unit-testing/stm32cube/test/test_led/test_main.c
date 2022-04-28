@@ -18,8 +18,6 @@
 #include <unity.h>
 
 void setUp(void) {
-    HAL_Init();
-
     LED_GPIO_CLK_ENABLE();
 
     GPIO_InitTypeDef GPIO_InitStruct;
@@ -49,8 +47,10 @@ void test_led_state_low(void) {
 }
 
 int main() {
+    HAL_Init();
+    HAL_Delay(2000);
+    
     UNITY_BEGIN();
-
     RUN_TEST(test_led_builtin_pin_number);
     for (unsigned int i = 0; i < 5; i++)
     {
