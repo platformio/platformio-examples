@@ -14,7 +14,7 @@
  limitations under the License.
 **/
 
-#include "unittest_transport.h"
+#include "unity_config.h"
 #include "stm32f4xx_hal.h"
 
 #define USARTx                           USART2
@@ -37,7 +37,7 @@
 
 static UART_HandleTypeDef UartHandle;
 
-void unittest_uart_begin()
+void unityOutputStart()
 {
    GPIO_InitTypeDef  GPIO_InitStruct;
 
@@ -74,14 +74,14 @@ void unittest_uart_begin()
 
 }
 
-void unittest_uart_putchar(char c)
+void unityOutputChar(char c)
 {
     HAL_UART_Transmit(&UartHandle, (uint8_t*)(&c), 1, 1000);
 }
 
-void unittest_uart_flush(){}
+void unityOutputFlush(){}
 
-void unittest_uart_end() {
+void unityOutputComplete() {
   USARTx_CLK_DISABLE();
   USARTx_RX_GPIO_CLK_DISABLE();
   USARTx_TX_GPIO_CLK_DISABLE();
