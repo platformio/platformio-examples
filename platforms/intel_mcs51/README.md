@@ -8,6 +8,9 @@ The Intel MCS-51 (commonly termed 8051) is an internally Harvard architecture, c
 
 # Examples
 
+* [anymcu-blink](https://github.com/platformio/platform-intel_mcs51/tree/master/examples/anymcu-blink)
+* [anymcu-header](https://github.com/platformio/platform-intel_mcs51/tree/master/examples/anymcu-header)
+* [assembly-blink](https://github.com/platformio/platform-intel_mcs51/tree/master/examples/assembly-blink)
 * [native-blink](https://github.com/platformio/platform-intel_mcs51/tree/master/examples/native-blink)
 * [stc-blink](https://github.com/platformio/platform-intel_mcs51/tree/master/examples/stc-blink)
 * [stc-header](https://github.com/platformio/platform-intel_mcs51/tree/master/examples/stc-header)
