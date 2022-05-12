@@ -47,7 +47,7 @@ void test_expensive_operation(void) {
     TEST_IGNORE();
 }
 
-void process() {
+void RUN_UNITY_TESTS() {
     UNITY_BEGIN();
     RUN_TEST(test_calculator_addition);
     RUN_TEST(test_calculator_subtraction);
@@ -65,7 +65,7 @@ void setup() {
     // if board doesn't support software reset via Serial.DTR/RTS
     delay(2000);
 
-    process();
+    RUN_UNITY_TESTS();
 }
 
 void loop() {
@@ -78,7 +78,7 @@ void loop() {
 #else
 
 int main(int argc, char **argv) {
-    process();
+    RUN_UNITY_TESTS();
     return 0;
 }
 
