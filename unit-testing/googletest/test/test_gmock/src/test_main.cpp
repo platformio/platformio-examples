@@ -35,8 +35,13 @@ TEST(PainterTest, CanDrawSomething)
 
 void setup()
 {
-	Serial.begin(115200);
-	delay(1000);
+    // should be the same value as for the `test_speed` option in "platformio.ini"
+    // default value is test_speed=115200
+    Serial.begin(115200);
+
+    // give the 1-2 seconds to the test runner to connect to the board
+    delay(1000);
+
 	::testing::InitGoogleMock();
 	if (RUN_ALL_TESTS());
 }
