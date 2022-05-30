@@ -77,11 +77,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [esp8266-rtos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-rtos-sdk-blink)
   * [simba-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/simba-blink)
 
-- [GigaDevice GD32V](https://github.com/sipeed/platform-gd32v)
-  * [arduino-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/arduino-blink)
-  * [eval-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/eval-blink)
-  * [longan-nano-blink](https://github.com/sipeed/platform-gd32v/tree/master/examples/longan-nano-blink)
-
 - [Infineon XMC](https://github.com/Infineon/platformio-infineonxmc)
   * [arduino-blink](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/arduino-blink)
   * [arduino-wire](https://github.com/Infineon/platformio-infineonxmc/tree/master/examples/arduino-wire)
@@ -96,11 +91,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [arduino-blink](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-blink)
   * [arduino-curie-imu](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-curie-imu)
   * [arduino-internal-libs](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-internal-libs)
-
-- [Kendryte K210](https://github.com/sipeed/platform-kendryte210)
-  * [arduino-blink](https://github.com/sipeed/platform-kendryte210/tree/master/examples/arduino-blink)
-  * [kendryte-freertos-sdk_hello](https://github.com/sipeed/platform-kendryte210/tree/master/examples/kendryte-freertos-sdk_hello)
-  * [kendryte-standalone-sdk_hello](https://github.com/sipeed/platform-kendryte210/tree/master/examples/kendryte-standalone-sdk_hello)
 
 - [Microchip PIC32](https://github.com/platformio/platform-microchippic32)
   * [arduino-blink](https://github.com/platformio/platform-microchippic32/tree/master/examples/arduino-blink)
