@@ -12,7 +12,7 @@ Atmel AVR 8-bit MCUs deliver a unique combination of performance, power efficien
 * [arduino-external-libs](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-external-libs)
 * [arduino-internal-libs](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-internal-libs)
 * [arduino-own-src_dir](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-own-src_dir)
+* [assembly-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/assembly-blink)
 * [digitstump-mouse](https://github.com/platformio/platform-atmelavr/tree/master/examples/digitstump-mouse)
 * [engduino-magnetometer](https://github.com/platformio/platform-atmelavr/tree/master/examples/engduino-magnetometer)
 * [native-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/native-blink)
-* [simba-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/simba-blink)

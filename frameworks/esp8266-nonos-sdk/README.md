@@ -15,5 +15,4 @@ The non-OS SDK provides a set of application programming interfaces (APIs) for c
   * [arduino-wifiscan](https://github.com/platformio/platform-espressif8266/tree/master/examples/arduino-wifiscan)
   * [esp8266-nonos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-nonos-sdk-blink)
   * [esp8266-rtos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-rtos-sdk-blink)
-  * [simba-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/simba-blink)
 

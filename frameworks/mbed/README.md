@@ -8,21 +8,6 @@ Arm Mbed OS is an open source embedded operating system designed specifically fo
 
 # Examples
 
-- [Atmel SAM](https://github.com/platformio/platform-atmelsam)
-  * [arduino-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-blink)
-  * [arduino-briki-internal-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-briki-internal-libs)
-  * [arduino-external-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-external-libs)
-  * [arduino-internal-libs](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-internal-libs)
-  * [arduino-web-thing-led](https://github.com/platformio/platform-atmelsam/tree/master/examples/arduino-web-thing-led)
-  * [mbed-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-blink)
-  * [mbed-dsp](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-dsp)
-  * [mbed-events](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-events)
-  * [mbed-serial](https://github.com/platformio/platform-atmelsam/tree/master/examples/mbed-serial)
-  * [simba-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/simba-blink)
-  * [zephyr-blink](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-blink)
-  * [zephyr-drivers-lcd-hd44780](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-drivers-lcd-hd44780)
-  * [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
-
 - [Freescale Kinetis](https://github.com/platformio/platform-freescalekinetis)
   * [mbed-legacy-examples](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-legacy-examples)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-blink-baremetal)
@@ -38,18 +23,6 @@ Arm Mbed OS is an open source embedded operating system designed specifically fo
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-rtos-blink-baremetal)
   * [mbed-rtos-mutex](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-rtos-mutex)
   * [mbed-rtos-sysinfo](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-rtos-sysinfo)
-
-- [Nordic nRF51](https://github.com/platformio/platform-nordicnrf51)
-  * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-ble-led)
-  * [arduino-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-blink)
-  * [arduino-internal-libs](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-internal-libs)
-  * [mbed-ble-thermometer](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-ble-thermometer)
-  * [mbed-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-blink)
-  * [mbed-events](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-events)
-  * [mbed-serial](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/mbed-serial)
-  * [zephyr-ble-eddystone](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-ble-eddystone)
-  * [zephyr-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-blink)
-  * [zephyr-drivers-entropy](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-drivers-entropy)
 
 - [Nordic nRF52](https://github.com/platformio/platform-nordicnrf52)
   * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-ble-led)
