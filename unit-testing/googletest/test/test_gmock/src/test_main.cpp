@@ -39,18 +39,17 @@ void setup()
     // default value is test_speed=115200
     Serial.begin(115200);
 
-    // give the 1-2 seconds to the test runner to connect to the board
-    delay(1000);
-
 	::testing::InitGoogleMock();
-	if (RUN_ALL_TESTS())
-	;
 }
 
 void loop()
 {
-	// nothing to be done here.
-	delay(100);
+	// Run tests
+	if (RUN_ALL_TESTS())
+	;
+
+	// sleep 1 sec
+	delay(1000);
 }
 
 #else
