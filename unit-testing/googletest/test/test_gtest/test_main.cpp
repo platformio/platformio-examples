@@ -56,7 +56,8 @@ void setup()
     delay(1000);
 
     ::testing::InitGoogleTest();
-    if (RUN_ALL_TESTS());
+    if (RUN_ALL_TESTS())
+    ;
 }
 
 void loop()
@@ -69,6 +70,8 @@ void loop()
 int main(int argc, char **argv)
 {
     ::testing::InitGoogleTest(&argc, argv);
-    return RUN_ALL_TESTS();
+	if (RUN_ALL_TESTS())
+    ;
+	return 0;
 }
 #endif

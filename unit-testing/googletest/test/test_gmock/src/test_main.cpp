@@ -43,7 +43,8 @@ void setup()
     delay(1000);
 
 	::testing::InitGoogleMock();
-	if (RUN_ALL_TESTS());
+	if (RUN_ALL_TESTS())
+	;
 }
 
 void loop()
@@ -57,7 +58,9 @@ void loop()
 int main(int argc, char **argv)
 {
 	::testing::InitGoogleMock(&argc, argv);
-	return RUN_ALL_TESTS();
+	if (RUN_ALL_TESTS())
+	;
+	return 0;
 }
 
 #endif
