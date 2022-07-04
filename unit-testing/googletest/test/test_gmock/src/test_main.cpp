@@ -48,7 +48,7 @@ void loop()
 	if (RUN_ALL_TESTS())
 	;
 
-	// sleep 1 sec
+	// sleep for 1 sec
 	delay(1000);
 }
 
@@ -59,6 +59,7 @@ int main(int argc, char **argv)
 	::testing::InitGoogleMock(&argc, argv);
 	if (RUN_ALL_TESTS())
 	;
+	// Always return zero-code and allow PlatformIO to parse results
 	return 0;
 }
 
