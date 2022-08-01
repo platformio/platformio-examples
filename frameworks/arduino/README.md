@@ -8,13 +8,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
 
 # Examples
 
-- [ASR Microelectronics ASR650x](https://github.com/HelTecAutomation/platform-asrmicro650x)
-  * [LoRa](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/LoRa)
-  * [arduino-adc](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-adc)
-  * [arduino-blink](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-blink)
-  * [arduino-lowpower](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-lowpower)
-  * [arduino-rgb](https://github.com/HelTecAutomation/platform-asrmicro650x/tree/master/examples/arduino-rgb)
-
 - [Atmel AVR](https://github.com/platformio/platform-atmelavr)
   * [arduino-blink](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-blink)
   * [arduino-external-libs](https://github.com/platformio/platform-atmelavr/tree/master/examples/arduino-external-libs)
