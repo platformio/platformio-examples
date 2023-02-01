@@ -17,6 +17,7 @@
 * [Espressif 32](https://github.com/platformio/platform-espressif32/tree/master/examples)
 * [Espressif 8266](https://github.com/platformio/platform-espressif8266/tree/master/examples)
 * [Freescale Kinetis](https://github.com/platformio/platform-freescalekinetis/tree/master/examples)
+* [Heltec CubeCell](https://github.com/HelTecAutomation/platform-heltec-cubecell/tree/master/examples)
 * [Intel ARC32](https://github.com/platformio/platform-intel_arc32/tree/master/examples)
 * [Intel MCS-51 (8051)](https://github.com/platformio/platform-intel_mcs51/tree/master/examples)
 * [Lattice iCE40](https://github.com/platformio/platform-lattice_ice40/tree/master/examples)

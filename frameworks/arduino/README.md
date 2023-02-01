@@ -64,6 +64,13 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [esp8266-nonos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-nonos-sdk-blink)
   * [esp8266-rtos-sdk-blink](https://github.com/platformio/platform-espressif8266/tree/master/examples/esp8266-rtos-sdk-blink)
 
+- [Heltec CubeCell](https://github.com/HelTecAutomation/platform-heltec-cubecell)
+  * [LoRa](https://github.com/HelTecAutomation/platform-heltec-cubecell/tree/master/examples/LoRa)
+  * [arduino-adc](https://github.com/HelTecAutomation/platform-heltec-cubecell/tree/master/examples/arduino-adc)
+  * [arduino-blink](https://github.com/HelTecAutomation/platform-heltec-cubecell/tree/master/examples/arduino-blink)
+  * [arduino-lowpower](https://github.com/HelTecAutomation/platform-heltec-cubecell/tree/master/examples/arduino-lowpower)
+  * [arduino-rgb](https://github.com/HelTecAutomation/platform-heltec-cubecell/tree/master/examples/arduino-rgb)
+
 - [Intel ARC32](https://github.com/platformio/platform-intel_arc32)
   * [arduino-blink](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-blink)
   * [arduino-curie-imu](https://github.com/platformio/platform-intel_arc32/tree/master/examples/arduino-curie-imu)
