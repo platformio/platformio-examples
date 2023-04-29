@@ -1,7 +1,7 @@
 
 # Mbed: framework for [PlatformIO](https://platformio.org)
 
-Arm Mbed OS is an open source embedded operating system designed specifically for the 'things' in the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices
+Arm Mbed OS is a platform operating system designed for the internet of things
 
 * [Home](https://platformio.org/frameworks/mbed) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/mbed.html)

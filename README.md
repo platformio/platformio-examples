@@ -52,6 +52,7 @@
 
 * [Arduino](https://docs.platformio.org/en/latest/frameworks/arduino.html?utm_source=github&utm_medium=examples#examples)
 * [CMSIS](https://docs.platformio.org/en/latest/frameworks/cmsis.html?utm_source=github&utm_medium=examples#examples)
+* [Energia](https://docs.platformio.org/en/latest/frameworks/energia.html?utm_source=github&utm_medium=examples#examples)
 * [ESP8266 Non-OS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-nonos-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [ESP8266 RTOS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-rtos-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [Espressif IoT Development Framework](https://docs.platformio.org/en/latest/frameworks/espidf.html?utm_source=github&utm_medium=examples#examples)
@@ -67,4 +68,4 @@
 * [STM32Cube](https://docs.platformio.org/en/latest/frameworks/stm32cube.html?utm_source=github&utm_medium=examples#examples)
 * [WD-Firmware](https://docs.platformio.org/en/latest/frameworks/wd-riscv-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [WiringPi](https://docs.platformio.org/en/latest/frameworks/wiringpi.html?utm_source=github&utm_medium=examples#examples)
-* [Zephyr RTOS](https://docs.platformio.org/en/latest/frameworks/zephyr.html?utm_source=github&utm_medium=examples#examples)
+* [Zephyr](https://docs.platformio.org/en/latest/frameworks/zephyr.html?utm_source=github&utm_medium=examples#examples)

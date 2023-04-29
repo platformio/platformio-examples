@@ -1,7 +1,7 @@
 
 # ESP8266 RTOS SDK: framework for [PlatformIO](https://platformio.org)
 
-ESP8266 SDK based on FreeRTOS, a truly free professional grade RTOS for microcontrollers
+Espressif ESP8266 SDK based on FreeRTOS
 
 * [Home](https://platformio.org/frameworks/esp8266-rtos-sdk) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/esp8266-rtos-sdk.html)

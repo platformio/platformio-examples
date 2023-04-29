@@ -1,7 +1,7 @@
 
 # PULP SDK: framework for [PlatformIO](https://platformio.org)
 
-Software Development Kit for Parallel Ultra Low Power platform targeting high energy efficiencies
+Software Development Kit for Parallel Ultra Low Power platform
 
 * [Home](https://platformio.org/frameworks/pulp-sdk) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/pulp-sdk.html)

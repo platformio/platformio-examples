@@ -1,7 +1,7 @@
 
 # FreeRTOS: framework for [PlatformIO](https://platformio.org)
 
-FreeRTOS is a real-time operating system kernel for embedded devices that has been ported to 40 microcontroller platforms
+FreeRTOS is a real-time operating system kernel for embedded devices that has been ported to 40 microcontroller platforms.
 
 * [Home](https://platformio.org/frameworks/freertos) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/freertos.html)

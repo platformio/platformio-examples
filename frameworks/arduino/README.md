@@ -1,7 +1,7 @@
 
 # Arduino: framework for [PlatformIO](https://platformio.org)
 
-Arduino Wiring-based Framework allows writing cross-platform software to control devices attached to a wide range of Arduino boards to create all kinds of creative coding, interactive objects, spaces or physical experiences
+Arduino Wiring-based Framework allows writing cross-platform software to control devices attached to a wide range of Arduino boards to create all kinds of creative coding, interactive objects, spaces or physical experiences.
 
 * [Home](https://platformio.org/frameworks/arduino) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/arduino.html)

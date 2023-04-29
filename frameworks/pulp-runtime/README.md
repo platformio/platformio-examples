@@ -1,7 +1,7 @@
 
 # PULP Runtime Environment: framework for [PlatformIO](https://platformio.org)
 
-Runtime Environment for Parallel Ultra Low Power platform targeting high energy efficiencies
+Runtime Environment for Parallel Ultra Low Power platform
 
 * [Home](https://platformio.org/frameworks/pulp-runtime) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/pulp-runtime.html)

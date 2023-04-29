@@ -1,7 +1,7 @@
 
 # Espressif IoT Development Framework: framework for [PlatformIO](https://platformio.org)
 
-ESP-IDF is the official development framework for the ESP32 and ESP32-S Series SoCs.
+Espressif IoT Development Framework. Official development framework for ESP32 chip
 
 * [Home](https://platformio.org/frameworks/espidf) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/espidf.html)
