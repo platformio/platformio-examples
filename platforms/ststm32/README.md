@@ -21,7 +21,6 @@ The STM32 family of 32-bit Flash MCUs based on the ARM Cortex-M processor is des
 * [libopencm3-1bitsy](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-1bitsy)
 * [libopencm3-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-blink)
 * [libopencm3-usb-cdcacm](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-usb-cdcacm)
-* [mbed-legacy-examples](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-legacy-examples)
 * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-blink-baremetal)
 * [mbed-rtos-custom-target](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-custom-target)
 * [mbed-rtos-ethernet-tls](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-ethernet-tls)

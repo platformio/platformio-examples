@@ -13,7 +13,6 @@ The nRF52 Series are built for speed to carry out increasingly complex tasks in 
 * [arduino-bluefruit-bleuart](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-bluefruit-bleuart)
 * [arduino-nina-b1-generic-example](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-nina-b1-generic-example)
 * [arduino-serial-plotter](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-serial-plotter)
-* [mbed-legacy-examples](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-legacy-examples)
 * [mbed-rtos-ble-thermometer](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-ble-thermometer)
 * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-blink-baremetal)
 * [mbed-rtos-nfc](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-nfc)

@@ -38,7 +38,6 @@
 * [Teensy](https://github.com/platformio/platform-teensy/tree/master/examples)
 * [TI MSP430](https://github.com/platformio/platform-timsp430/tree/master/examples)
 * [TI TIVA](https://github.com/platformio/platform-titiva/tree/master/examples)
-* [WIZNet W7500](https://github.com/platformio/platform-wiznet7500/tree/master/examples)
 
 ### Desktop
 
@@ -55,7 +54,7 @@
 * [Energia](https://docs.platformio.org/en/latest/frameworks/energia.html?utm_source=github&utm_medium=examples#examples)
 * [ESP8266 Non-OS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-nonos-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [ESP8266 RTOS SDK](https://docs.platformio.org/en/latest/frameworks/esp8266-rtos-sdk.html?utm_source=github&utm_medium=examples#examples)
-* [Espressif IoT Development Framework](https://docs.platformio.org/en/latest/frameworks/espidf.html?utm_source=github&utm_medium=examples#examples)
+* [Espidf](https://docs.platformio.org/en/latest/frameworks/espidf.html?utm_source=github&utm_medium=examples#examples)
 * [Freedom E SDK](https://docs.platformio.org/en/latest/frameworks/freedom-e-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [FreeRTOS](https://docs.platformio.org/en/latest/frameworks/freertos.html?utm_source=github&utm_medium=examples#examples)
 * [libopencm3](https://docs.platformio.org/en/latest/frameworks/libopencm3.html?utm_source=github&utm_medium=examples#examples)

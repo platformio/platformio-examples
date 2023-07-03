@@ -30,7 +30,6 @@ Arm Mbed OS is a platform operating system designed for the internet of things
   * [arduino-bluefruit-bleuart](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-bluefruit-bleuart)
   * [arduino-nina-b1-generic-example](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-nina-b1-generic-example)
   * [arduino-serial-plotter](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-serial-plotter)
-  * [mbed-legacy-examples](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-legacy-examples)
   * [mbed-rtos-ble-thermometer](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-ble-thermometer)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-blink-baremetal)
   * [mbed-rtos-nfc](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-nfc)
@@ -97,7 +96,6 @@ Arm Mbed OS is a platform operating system designed for the internet of things
   * [libopencm3-1bitsy](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-1bitsy)
   * [libopencm3-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-blink)
   * [libopencm3-usb-cdcacm](https://github.com/platformio/platform-ststm32/tree/master/examples/libopencm3-usb-cdcacm)
-  * [mbed-legacy-examples](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-legacy-examples)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-blink-baremetal)
   * [mbed-rtos-custom-target](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-custom-target)
   * [mbed-rtos-ethernet-tls](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-ethernet-tls)
@@ -133,11 +131,4 @@ Arm Mbed OS is a platform operating system designed for the internet of things
   * [mbed-serial](https://github.com/platformio/platform-teensy/tree/master/examples/mbed-serial)
   * [zephyr-blink](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-blink)
   * [zephyr-synchronization](https://github.com/platformio/platform-teensy/tree/master/examples/zephyr-synchronization)
-
-- [WIZNet W7500](https://github.com/platformio/platform-wiznet7500)
-  * [mbed-blink](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-blink)
-  * [mbed-dsp](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-dsp)
-  * [mbed-events](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-events)
-  * [mbed-rtos](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-rtos)
-  * [mbed-serial](https://github.com/platformio/platform-wiznet7500/tree/master/examples/mbed-serial)
 
