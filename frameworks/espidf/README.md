@@ -1,5 +1,5 @@
 
-# Espidf: framework for [PlatformIO](https://platformio.org)
+# Espressif IoT Development Framework: framework for [PlatformIO](https://platformio.org)
 
 Espressif IoT Development Framework. Official development framework for ESP32 chip
 

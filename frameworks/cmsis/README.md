@@ -8,6 +8,15 @@ Vendor-independent hardware abstraction layer for the Cortex-M processor series
 
 # Examples
 
+- [Renesas RA](https://github.com/platformio/platform-renesas-ra)
+  * [arduino-blink](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-blink)
+  * [arduino-internal-libs](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-internal-libs)
+  * [arduino-uno-r4-led-animation](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-uno-r4-led-animation)
+  * [arduino-wifiscan](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-wifiscan)
+  * [cmsis-blink](https://github.com/platformio/platform-renesas-ra/tree/master/examples/cmsis-blink)
+  * [fsp-blink](https://github.com/platformio/platform-renesas-ra/tree/master/examples/fsp-blink)
+  * [fsp-button-isr](https://github.com/platformio/platform-renesas-ra/tree/master/examples/fsp-button-isr)
+
 - [ST STM32](https://github.com/platformio/platform-ststm32)
   * [arduino-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-blink)
   * [arduino-external-libs](https://github.com/platformio/platform-ststm32/tree/master/examples/arduino-external-libs)

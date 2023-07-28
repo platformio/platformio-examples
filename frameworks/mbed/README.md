@@ -1,5 +1,5 @@
 
-# Mbed: framework for [PlatformIO](https://platformio.org)
+# Mbed OS: framework for [PlatformIO](https://platformio.org)
 
 Arm Mbed OS is a platform operating system designed for the internet of things
 
