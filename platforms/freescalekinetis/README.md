@@ -8,7 +8,6 @@ Freescale Kinetis Microcontrollers is family of multiple hardware- and software-
 
 # Examples
 
-* [mbed-legacy-examples](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-legacy-examples)
 * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-blink-baremetal)
 * [mbed-rtos-ethernet-tls](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-ethernet-tls)
 * [mbed-rtos-kvstore](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-kvstore)

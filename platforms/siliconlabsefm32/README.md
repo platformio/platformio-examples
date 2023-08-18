@@ -8,7 +8,6 @@ Silicon Labs EFM32 Gecko 32-bit microcontroller (MCU) family includes devices th
 
 # Examples
 
-* [mbed-legacy-examples](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-legacy-examples)
 * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-blink-baremetal)
 * [mbed-rtos-semaphore](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-semaphore)
 * [mbed-rtos-usb-cdc](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-usb-cdc)

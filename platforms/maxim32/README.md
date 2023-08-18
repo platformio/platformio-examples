@@ -8,7 +8,6 @@ Maxim's microcontrollers provide low-power, efficient, and secure solutions for 
 
 # Examples
 
-* [mbed-legacy-examples](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-legacy-examples)
 * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-rtos-blink-baremetal)
 * [mbed-rtos-mutex](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-rtos-mutex)
 * [mbed-rtos-sysinfo](https://github.com/platformio/platform-maxim32/tree/master/examples/mbed-rtos-sysinfo)

@@ -19,7 +19,6 @@ Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardwa
   * [zephyr-subsys-logger](https://github.com/platformio/platform-atmelsam/tree/master/examples/zephyr-subsys-logger)
 
 - [Freescale Kinetis](https://github.com/platformio/platform-freescalekinetis)
-  * [mbed-legacy-examples](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-legacy-examples)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-blink-baremetal)
   * [mbed-rtos-ethernet-tls](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-ethernet-tls)
   * [mbed-rtos-kvstore](https://github.com/platformio/platform-freescalekinetis/tree/master/examples/mbed-rtos-kvstore)
@@ -42,7 +41,7 @@ Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardwa
   * [arduino-bluefruit-bleuart](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-bluefruit-bleuart)
   * [arduino-nina-b1-generic-example](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-nina-b1-generic-example)
   * [arduino-serial-plotter](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-serial-plotter)
-  * [mbed-rtos-ble-thermometer](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-ble-thermometer)
+  * [mbed-rtos-ble-battery](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-ble-battery)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-blink-baremetal)
   * [mbed-rtos-nfc](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/mbed-rtos-nfc)
   * [zephyr-ble-beacon](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/zephyr-ble-beacon)
@@ -58,7 +57,6 @@ Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardwa
   * [zephyr-synchronization](https://github.com/platformio/platform-nxpimxrt/tree/master/examples/zephyr-synchronization)
 
 - [NXP LPC](https://github.com/platformio/platform-nxplpc)
-  * [mbed-legacy-examples](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-legacy-examples)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-blink-baremetal)
   * [mbed-rtos-blockdevice](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-blockdevice)
   * [mbed-rtos-thread-statistics](https://github.com/platformio/platform-nxplpc/tree/master/examples/mbed-rtos-thread-statistics)
@@ -84,7 +82,6 @@ Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardwa
   * [zephyr-synchronization](https://github.com/platformio/platform-sifive/tree/master/examples/zephyr-synchronization)
 
 - [Silicon Labs EFM32](https://github.com/platformio/platform-siliconlabsefm32)
-  * [mbed-legacy-examples](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-legacy-examples)
   * [mbed-rtos-blink-baremetal](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-blink-baremetal)
   * [mbed-rtos-semaphore](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-semaphore)
   * [mbed-rtos-usb-cdc](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-usb-cdc)
@@ -113,8 +110,8 @@ Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardwa
   * [mbed-rtos-filesystem](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-filesystem)
   * [mbed-rtos-mesh-minimal](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-mesh-minimal)
   * [mbed-rtos-serial](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-serial)
+  * [mbed-rtos-sockets](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-sockets)
   * [mbed-rtos-usb-keyboard](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-usb-keyboard)
-  * [mbed-rtos-wifi](https://github.com/platformio/platform-ststm32/tree/master/examples/mbed-rtos-wifi)
   * [spl-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/spl-blink)
   * [stm32cube-hal-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-blink)
   * [stm32cube-hal-eeprom-emulation](https://github.com/platformio/platform-ststm32/tree/master/examples/stm32cube-hal-eeprom-emulation)
