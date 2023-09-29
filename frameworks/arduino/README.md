@@ -149,7 +149,6 @@ Arduino Wiring-based Framework allows writing cross-platform software to control
   * [zephyr-blink](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-blink)
   * [zephyr-cpp-synchronization](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-cpp-synchronization)
   * [zephyr-drivers-can](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-drivers-can)
-  * [zephyr-net-civetweb](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-net-civetweb)
   * [zephyr-net-https-client](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-net-https-client)
   * [zephyr-subsys-usb-hid-mouse](https://github.com/platformio/platform-ststm32/tree/master/examples/zephyr-subsys-usb-hid-mouse)
 
