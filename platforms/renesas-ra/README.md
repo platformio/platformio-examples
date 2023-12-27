@@ -10,6 +10,7 @@ Renesas Advanced (RA) 32-bit microcontrollers with the Arm Cortex-M33, -M23 and 
 
 * [arduino-blink](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-blink)
 * [arduino-internal-libs](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-internal-libs)
+* [arduino-iot-cloud-basic](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-iot-cloud-basic)
 * [arduino-uno-r4-led-animation](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-uno-r4-led-animation)
 * [arduino-wifiscan](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-wifiscan)
 * [cmsis-blink](https://github.com/platformio/platform-renesas-ra/tree/master/examples/cmsis-blink)

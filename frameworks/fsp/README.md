@@ -11,6 +11,7 @@ The Renesas Flexible Software Package (FSP) is an enhanced software package desi
 - [Renesas RA](https://github.com/platformio/platform-renesas-ra)
   * [arduino-blink](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-blink)
   * [arduino-internal-libs](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-internal-libs)
+  * [arduino-iot-cloud-basic](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-iot-cloud-basic)
   * [arduino-uno-r4-led-animation](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-uno-r4-led-animation)
   * [arduino-wifiscan](https://github.com/platformio/platform-renesas-ra/tree/master/examples/arduino-wifiscan)
   * [cmsis-blink](https://github.com/platformio/platform-renesas-ra/tree/master/examples/cmsis-blink)
