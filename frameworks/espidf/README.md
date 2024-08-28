@@ -15,7 +15,6 @@ Espressif IoT Development Framework. Official development framework for ESP32 ch
   * [arduino-wifiscan](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-wifiscan)
   * [espidf-arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-arduino-blink)
   * [espidf-arduino-wifiscan](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-arduino-wifiscan)
-  * [espidf-aws-iot](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-aws-iot)
   * [espidf-ble-eddystone](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-ble-eddystone)
   * [espidf-coap-server](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-coap-server)
   * [espidf-exceptions](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-exceptions)

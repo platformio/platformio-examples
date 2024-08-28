@@ -14,7 +14,6 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 * [arduino-wifiscan](https://github.com/platformio/platform-espressif32/tree/master/examples/arduino-wifiscan)
 * [espidf-arduino-blink](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-arduino-blink)
 * [espidf-arduino-wifiscan](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-arduino-wifiscan)
-* [espidf-aws-iot](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-aws-iot)
 * [espidf-ble-eddystone](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-ble-eddystone)
 * [espidf-coap-server](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-coap-server)
 * [espidf-exceptions](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-exceptions)

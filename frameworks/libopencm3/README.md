@@ -1,7 +1,7 @@
 
-# libopencm3: framework for [PlatformIO](https://platformio.org)
+# Open-source ARM Cortex-M microcontroller library: framework for [PlatformIO](https://platformio.org)
 
-Open source ARM Cortex-M microcontroller library
+The libopencm3 project aims to create an open-source firmware library for various ARM Cortex-M microcontrollers.
 
 * [Home](https://platformio.org/frameworks/libopencm3) (home page in PlatformIO Registry)
 * [Documentation](https://docs.platformio.org/page/frameworks/libopencm3.html)
