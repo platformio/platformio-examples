@@ -59,7 +59,7 @@
 * [Freedom E SDK](https://docs.platformio.org/en/latest/frameworks/freedom-e-sdk.html?utm_source=github&utm_medium=examples#examples)
 * [FreeRTOS](https://docs.platformio.org/en/latest/frameworks/freertos.html?utm_source=github&utm_medium=examples#examples)
 * [Renesas Flexible Software Package](https://docs.platformio.org/en/latest/frameworks/fsp.html?utm_source=github&utm_medium=examples#examples)
-* [Open-source ARM Cortex-M microcontroller library](https://docs.platformio.org/en/latest/frameworks/libopencm3.html?utm_source=github&utm_medium=examples#examples)
+* [LibOpenCM3](https://docs.platformio.org/en/latest/frameworks/libopencm3.html?utm_source=github&utm_medium=examples#examples)
 * [Mbed](https://docs.platformio.org/en/latest/frameworks/mbed.html?utm_source=github&utm_medium=examples#examples)
 * [PULP OS](https://docs.platformio.org/en/latest/frameworks/pulp-os.html?utm_source=github&utm_medium=examples#examples)
 * [PULP Runtime Environment](https://docs.platformio.org/en/latest/frameworks/pulp-runtime.html?utm_source=github&utm_medium=examples#examples)
