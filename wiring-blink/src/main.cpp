@@ -4,9 +4,9 @@
  * then off for one second, repeatedly.
  */
 
-#include "Arduino.h"
+#include <Arduino.h>
 
-// Set LED_BUILTIN if it is not defined by Arduino framework
+// Set LED_BUILTIN if it is not defined by the Arduino framework
 // #define LED_BUILTIN 13
 
 void setup()
