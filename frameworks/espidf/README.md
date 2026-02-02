@@ -22,6 +22,7 @@ Espressif IoT Development Framework. Official development framework for ESP32 ch
   * [espidf-http-request](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-http-request)
   * [espidf-peripherals-uart](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-peripherals-uart)
   * [espidf-peripherals-usb](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-peripherals-usb)
+  * [espidf-security-secureboot](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-security-secureboot)
   * [espidf-storage-sdcard](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-storage-sdcard)
   * [espidf-storage-spiffs](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-storage-spiffs)
   * [espidf-ulp-adc](https://github.com/platformio/platform-espressif32/tree/master/examples/espidf-ulp-adc)
