@@ -75,7 +75,6 @@ Arm Mbed OS is a platform operating system designed for the internet of things
   * [mbed-rtos-semaphore](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-semaphore)
   * [mbed-rtos-usb-cdc](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-usb-cdc)
   * [zephyr-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-blink)
-  * [zephyr-custom-module](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-custom-module)
   * [zephyr-subsys-console-getline](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-subsys-console-getline)
 
 - [ST STM32](https://github.com/platformio/platform-ststm32)

@@ -32,7 +32,6 @@ Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardwa
   * [arduino-internal-libs](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/arduino-internal-libs)
   * [zephyr-ble-eddystone](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-ble-eddystone)
   * [zephyr-blink](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-blink)
-  * [zephyr-drivers-entropy](https://github.com/platformio/platform-nordicnrf51/tree/master/examples/zephyr-drivers-entropy)
 
 - [Nordic nRF52](https://github.com/platformio/platform-nordicnrf52)
   * [arduino-ble-led](https://github.com/platformio/platform-nordicnrf52/tree/master/examples/arduino-ble-led)
@@ -85,7 +84,6 @@ Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardwa
   * [mbed-rtos-semaphore](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-semaphore)
   * [mbed-rtos-usb-cdc](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/mbed-rtos-usb-cdc)
   * [zephyr-blink](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-blink)
-  * [zephyr-custom-module](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-custom-module)
   * [zephyr-subsys-console-getline](https://github.com/platformio/platform-siliconlabsefm32/tree/master/examples/zephyr-subsys-console-getline)
 
 - [ST STM32](https://github.com/platformio/platform-ststm32)
